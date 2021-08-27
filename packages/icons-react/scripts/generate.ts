@@ -39,7 +39,7 @@ async function generateIcons() {
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import <%= svgIdentifier %>Svg from '@infra-design/icons-svg/lib/asn/<%= svgIdentifier %>';
+import <%= svgIdentifier %>Svg from '@infra-design/icons-svg/es/asn/<%= svgIdentifier %>';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const <%= svgIdentifier %> = (
   props: AntdIconProps,
