@@ -10,6 +10,7 @@
     "icons:build": "lerna run --scope @infra-design/icons-svg build",
     "icons:test": "lerna run --scope @infra-design/icons-svg test",
     "react:ci": "lerna run --scope @infra-design/icons ci",
+    "react:g": "lerna run --scope @infra-design/icons generate",
     "angular:ci": "lerna run --scope @infra-design/icons-angular-workspace ci",
     "vue:ci": "lerna run --scope @infra-design/icons-vue ci",
     "react-native:ci": "lerna run --scope @infra-design/icons-react-native ci",
