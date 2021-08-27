@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import ArrowDownOutlinedSvg from '@ant-design/icons-svg/lib/asn/ArrowDownOutlined';
+import ArrowDownOutlinedSvg from '@infra-design/icons-svg/lib/asn/ArrowDownOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const ArrowDownOutlined = (

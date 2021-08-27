@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import CustomerServiceOutlinedSvg from '@ant-design/icons-svg/lib/asn/CustomerServiceOutlined';
+import CustomerServiceOutlinedSvg from '@infra-design/icons-svg/lib/asn/CustomerServiceOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const CustomerServiceOutlined = (

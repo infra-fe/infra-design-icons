@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import SlackOutlinedSvg from '@ant-design/icons-svg/lib/asn/SlackOutlined';
+import SlackOutlinedSvg from '@infra-design/icons-svg/lib/asn/SlackOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const SlackOutlined = (

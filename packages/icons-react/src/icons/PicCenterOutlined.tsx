@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import PicCenterOutlinedSvg from '@ant-design/icons-svg/lib/asn/PicCenterOutlined';
+import PicCenterOutlinedSvg from '@infra-design/icons-svg/lib/asn/PicCenterOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const PicCenterOutlined = (

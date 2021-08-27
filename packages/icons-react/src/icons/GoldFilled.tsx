@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import GoldFilledSvg from '@ant-design/icons-svg/lib/asn/GoldFilled';
+import GoldFilledSvg from '@infra-design/icons-svg/lib/asn/GoldFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const GoldFilled = (

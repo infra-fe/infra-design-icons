@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FilePdfFilledSvg from '@ant-design/icons-svg/lib/asn/FilePdfFilled';
+import FilePdfFilledSvg from '@infra-design/icons-svg/lib/asn/FilePdfFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FilePdfFilled = (

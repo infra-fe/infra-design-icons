@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import PayCircleFilledSvg from '@ant-design/icons-svg/lib/asn/PayCircleFilled';
+import PayCircleFilledSvg from '@infra-design/icons-svg/lib/asn/PayCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const PayCircleFilled = (

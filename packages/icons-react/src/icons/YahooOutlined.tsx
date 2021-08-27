@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import YahooOutlinedSvg from '@ant-design/icons-svg/lib/asn/YahooOutlined';
+import YahooOutlinedSvg from '@infra-design/icons-svg/lib/asn/YahooOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const YahooOutlined = (

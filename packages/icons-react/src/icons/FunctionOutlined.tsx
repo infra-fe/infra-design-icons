@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FunctionOutlinedSvg from '@ant-design/icons-svg/lib/asn/FunctionOutlined';
+import FunctionOutlinedSvg from '@infra-design/icons-svg/lib/asn/FunctionOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FunctionOutlined = (

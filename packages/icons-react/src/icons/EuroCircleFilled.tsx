@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import EuroCircleFilledSvg from '@ant-design/icons-svg/lib/asn/EuroCircleFilled';
+import EuroCircleFilledSvg from '@infra-design/icons-svg/lib/asn/EuroCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const EuroCircleFilled = (

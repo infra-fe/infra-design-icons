@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import CopyrightTwoToneSvg from '@ant-design/icons-svg/lib/asn/CopyrightTwoTone';
+import CopyrightTwoToneSvg from '@infra-design/icons-svg/lib/asn/CopyrightTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const CopyrightTwoTone = (

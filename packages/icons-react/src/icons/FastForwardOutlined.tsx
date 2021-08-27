@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FastForwardOutlinedSvg from '@ant-design/icons-svg/lib/asn/FastForwardOutlined';
+import FastForwardOutlinedSvg from '@infra-design/icons-svg/lib/asn/FastForwardOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FastForwardOutlined = (

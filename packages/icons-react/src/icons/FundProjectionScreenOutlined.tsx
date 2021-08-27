@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FundProjectionScreenOutlinedSvg from '@ant-design/icons-svg/lib/asn/FundProjectionScreenOutlined';
+import FundProjectionScreenOutlinedSvg from '@infra-design/icons-svg/lib/asn/FundProjectionScreenOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FundProjectionScreenOutlined = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import YuqueOutlinedSvg from '@ant-design/icons-svg/lib/asn/YuqueOutlined';
+import YuqueOutlinedSvg from '@infra-design/icons-svg/lib/asn/YuqueOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const YuqueOutlined = (

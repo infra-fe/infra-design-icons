@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FileWordOutlinedSvg from '@ant-design/icons-svg/lib/asn/FileWordOutlined';
+import FileWordOutlinedSvg from '@infra-design/icons-svg/lib/asn/FileWordOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FileWordOutlined = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import EuroOutlinedSvg from '@ant-design/icons-svg/lib/asn/EuroOutlined';
+import EuroOutlinedSvg from '@infra-design/icons-svg/lib/asn/EuroOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const EuroOutlined = (

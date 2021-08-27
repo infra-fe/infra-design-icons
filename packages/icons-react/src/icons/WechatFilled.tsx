@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import WechatFilledSvg from '@ant-design/icons-svg/lib/asn/WechatFilled';
+import WechatFilledSvg from '@infra-design/icons-svg/lib/asn/WechatFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const WechatFilled = (

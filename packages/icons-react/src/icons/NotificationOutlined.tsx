@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import NotificationOutlinedSvg from '@ant-design/icons-svg/lib/asn/NotificationOutlined';
+import NotificationOutlinedSvg from '@infra-design/icons-svg/lib/asn/NotificationOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const NotificationOutlined = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import EyeInvisibleTwoToneSvg from '@ant-design/icons-svg/lib/asn/EyeInvisibleTwoTone';
+import EyeInvisibleTwoToneSvg from '@infra-design/icons-svg/lib/asn/EyeInvisibleTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const EyeInvisibleTwoTone = (

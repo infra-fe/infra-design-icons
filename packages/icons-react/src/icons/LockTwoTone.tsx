@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import LockTwoToneSvg from '@ant-design/icons-svg/lib/asn/LockTwoTone';
+import LockTwoToneSvg from '@infra-design/icons-svg/lib/asn/LockTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const LockTwoTone = (

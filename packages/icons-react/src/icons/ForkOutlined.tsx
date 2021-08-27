@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import ForkOutlinedSvg from '@ant-design/icons-svg/lib/asn/ForkOutlined';
+import ForkOutlinedSvg from '@infra-design/icons-svg/lib/asn/ForkOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const ForkOutlined = (

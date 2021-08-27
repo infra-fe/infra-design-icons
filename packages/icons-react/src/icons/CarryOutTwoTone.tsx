@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import CarryOutTwoToneSvg from '@ant-design/icons-svg/lib/asn/CarryOutTwoTone';
+import CarryOutTwoToneSvg from '@infra-design/icons-svg/lib/asn/CarryOutTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const CarryOutTwoTone = (

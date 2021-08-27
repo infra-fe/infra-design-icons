@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import IdcardOutlinedSvg from '@ant-design/icons-svg/lib/asn/IdcardOutlined';
+import IdcardOutlinedSvg from '@infra-design/icons-svg/lib/asn/IdcardOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const IdcardOutlined = (

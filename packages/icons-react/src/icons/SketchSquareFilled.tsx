@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import SketchSquareFilledSvg from '@ant-design/icons-svg/lib/asn/SketchSquareFilled';
+import SketchSquareFilledSvg from '@infra-design/icons-svg/lib/asn/SketchSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const SketchSquareFilled = (

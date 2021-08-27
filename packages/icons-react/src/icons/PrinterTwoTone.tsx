@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import PrinterTwoToneSvg from '@ant-design/icons-svg/lib/asn/PrinterTwoTone';
+import PrinterTwoToneSvg from '@infra-design/icons-svg/lib/asn/PrinterTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const PrinterTwoTone = (

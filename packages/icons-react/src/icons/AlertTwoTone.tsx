@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import AlertTwoToneSvg from '@ant-design/icons-svg/lib/asn/AlertTwoTone';
+import AlertTwoToneSvg from '@infra-design/icons-svg/lib/asn/AlertTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const AlertTwoTone = (

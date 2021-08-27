@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FontColorsOutlinedSvg from '@ant-design/icons-svg/lib/asn/FontColorsOutlined';
+import FontColorsOutlinedSvg from '@infra-design/icons-svg/lib/asn/FontColorsOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FontColorsOutlined = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import BellFilledSvg from '@ant-design/icons-svg/lib/asn/BellFilled';
+import BellFilledSvg from '@infra-design/icons-svg/lib/asn/BellFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const BellFilled = (

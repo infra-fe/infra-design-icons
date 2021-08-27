@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import StopFilledSvg from '@ant-design/icons-svg/lib/asn/StopFilled';
+import StopFilledSvg from '@infra-design/icons-svg/lib/asn/StopFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const StopFilled = (

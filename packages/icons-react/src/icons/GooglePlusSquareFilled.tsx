@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import GooglePlusSquareFilledSvg from '@ant-design/icons-svg/lib/asn/GooglePlusSquareFilled';
+import GooglePlusSquareFilledSvg from '@infra-design/icons-svg/lib/asn/GooglePlusSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const GooglePlusSquareFilled = (

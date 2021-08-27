@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import RestTwoToneSvg from '@ant-design/icons-svg/lib/asn/RestTwoTone';
+import RestTwoToneSvg from '@infra-design/icons-svg/lib/asn/RestTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const RestTwoTone = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import TrademarkCircleFilledSvg from '@ant-design/icons-svg/lib/asn/TrademarkCircleFilled';
+import TrademarkCircleFilledSvg from '@infra-design/icons-svg/lib/asn/TrademarkCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const TrademarkCircleFilled = (

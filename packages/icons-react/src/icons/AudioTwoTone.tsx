@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import AudioTwoToneSvg from '@ant-design/icons-svg/lib/asn/AudioTwoTone';
+import AudioTwoToneSvg from '@infra-design/icons-svg/lib/asn/AudioTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const AudioTwoTone = (

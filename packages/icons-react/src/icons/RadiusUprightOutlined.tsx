@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import RadiusUprightOutlinedSvg from '@ant-design/icons-svg/lib/asn/RadiusUprightOutlined';
+import RadiusUprightOutlinedSvg from '@infra-design/icons-svg/lib/asn/RadiusUprightOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const RadiusUprightOutlined = (

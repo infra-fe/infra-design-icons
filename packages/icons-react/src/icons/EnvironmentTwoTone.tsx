@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import EnvironmentTwoToneSvg from '@ant-design/icons-svg/lib/asn/EnvironmentTwoTone';
+import EnvironmentTwoToneSvg from '@infra-design/icons-svg/lib/asn/EnvironmentTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const EnvironmentTwoTone = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import CopyrightCircleFilledSvg from '@ant-design/icons-svg/lib/asn/CopyrightCircleFilled';
+import CopyrightCircleFilledSvg from '@infra-design/icons-svg/lib/asn/CopyrightCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const CopyrightCircleFilled = (

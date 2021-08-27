@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import DribbbleSquareOutlinedSvg from '@ant-design/icons-svg/lib/asn/DribbbleSquareOutlined';
+import DribbbleSquareOutlinedSvg from '@infra-design/icons-svg/lib/asn/DribbbleSquareOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const DribbbleSquareOutlined = (

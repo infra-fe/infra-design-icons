@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import QrcodeOutlinedSvg from '@ant-design/icons-svg/lib/asn/QrcodeOutlined';
+import QrcodeOutlinedSvg from '@infra-design/icons-svg/lib/asn/QrcodeOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const QrcodeOutlined = (

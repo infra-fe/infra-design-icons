@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import Loading3QuartersOutlinedSvg from '@ant-design/icons-svg/lib/asn/Loading3QuartersOutlined';
+import Loading3QuartersOutlinedSvg from '@infra-design/icons-svg/lib/asn/Loading3QuartersOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const Loading3QuartersOutlined = (

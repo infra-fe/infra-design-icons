@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import SafetyCertificateOutlinedSvg from '@ant-design/icons-svg/lib/asn/SafetyCertificateOutlined';
+import SafetyCertificateOutlinedSvg from '@infra-design/icons-svg/lib/asn/SafetyCertificateOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const SafetyCertificateOutlined = (

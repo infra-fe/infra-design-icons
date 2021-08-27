@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import TeamOutlinedSvg from '@ant-design/icons-svg/lib/asn/TeamOutlined';
+import TeamOutlinedSvg from '@infra-design/icons-svg/lib/asn/TeamOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const TeamOutlined = (

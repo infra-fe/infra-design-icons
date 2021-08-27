@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import UsergroupDeleteOutlinedSvg from '@ant-design/icons-svg/lib/asn/UsergroupDeleteOutlined';
+import UsergroupDeleteOutlinedSvg from '@infra-design/icons-svg/lib/asn/UsergroupDeleteOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const UsergroupDeleteOutlined = (

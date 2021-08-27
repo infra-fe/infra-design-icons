@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import ZhihuSquareFilledSvg from '@ant-design/icons-svg/lib/asn/ZhihuSquareFilled';
+import ZhihuSquareFilledSvg from '@infra-design/icons-svg/lib/asn/ZhihuSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const ZhihuSquareFilled = (

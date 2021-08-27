@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import CloudTwoToneSvg from '@ant-design/icons-svg/lib/asn/CloudTwoTone';
+import CloudTwoToneSvg from '@infra-design/icons-svg/lib/asn/CloudTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const CloudTwoTone = (

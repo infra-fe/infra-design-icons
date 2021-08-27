@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import SmileOutlinedSvg from '@ant-design/icons-svg/lib/asn/SmileOutlined';
+import SmileOutlinedSvg from '@infra-design/icons-svg/lib/asn/SmileOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const SmileOutlined = (

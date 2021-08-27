@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import SecurityScanTwoToneSvg from '@ant-design/icons-svg/lib/asn/SecurityScanTwoTone';
+import SecurityScanTwoToneSvg from '@infra-design/icons-svg/lib/asn/SecurityScanTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const SecurityScanTwoTone = (

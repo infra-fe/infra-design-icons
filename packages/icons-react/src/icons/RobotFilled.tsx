@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import RobotFilledSvg from '@ant-design/icons-svg/lib/asn/RobotFilled';
+import RobotFilledSvg from '@infra-design/icons-svg/lib/asn/RobotFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const RobotFilled = (

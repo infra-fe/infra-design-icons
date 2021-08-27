@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FieldNumberOutlinedSvg from '@ant-design/icons-svg/lib/asn/FieldNumberOutlined';
+import FieldNumberOutlinedSvg from '@infra-design/icons-svg/lib/asn/FieldNumberOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FieldNumberOutlined = (

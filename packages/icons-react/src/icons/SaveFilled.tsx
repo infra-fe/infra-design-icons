@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import SaveFilledSvg from '@ant-design/icons-svg/lib/asn/SaveFilled';
+import SaveFilledSvg from '@infra-design/icons-svg/lib/asn/SaveFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const SaveFilled = (

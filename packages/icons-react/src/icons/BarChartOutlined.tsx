@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import BarChartOutlinedSvg from '@ant-design/icons-svg/lib/asn/BarChartOutlined';
+import BarChartOutlinedSvg from '@infra-design/icons-svg/lib/asn/BarChartOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const BarChartOutlined = (

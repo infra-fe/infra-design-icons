@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import LeftCircleTwoToneSvg from '@ant-design/icons-svg/lib/asn/LeftCircleTwoTone';
+import LeftCircleTwoToneSvg from '@infra-design/icons-svg/lib/asn/LeftCircleTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const LeftCircleTwoTone = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import ShrinkOutlinedSvg from '@ant-design/icons-svg/lib/asn/ShrinkOutlined';
+import ShrinkOutlinedSvg from '@infra-design/icons-svg/lib/asn/ShrinkOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const ShrinkOutlined = (

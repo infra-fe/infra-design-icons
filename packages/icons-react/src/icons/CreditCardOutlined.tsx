@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import CreditCardOutlinedSvg from '@ant-design/icons-svg/lib/asn/CreditCardOutlined';
+import CreditCardOutlinedSvg from '@infra-design/icons-svg/lib/asn/CreditCardOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const CreditCardOutlined = (

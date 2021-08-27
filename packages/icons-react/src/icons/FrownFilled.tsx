@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FrownFilledSvg from '@ant-design/icons-svg/lib/asn/FrownFilled';
+import FrownFilledSvg from '@infra-design/icons-svg/lib/asn/FrownFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FrownFilled = (

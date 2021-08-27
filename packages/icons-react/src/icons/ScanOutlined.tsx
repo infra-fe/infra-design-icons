@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import ScanOutlinedSvg from '@ant-design/icons-svg/lib/asn/ScanOutlined';
+import ScanOutlinedSvg from '@infra-design/icons-svg/lib/asn/ScanOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const ScanOutlined = (

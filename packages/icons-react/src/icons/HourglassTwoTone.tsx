@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import HourglassTwoToneSvg from '@ant-design/icons-svg/lib/asn/HourglassTwoTone';
+import HourglassTwoToneSvg from '@infra-design/icons-svg/lib/asn/HourglassTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const HourglassTwoTone = (

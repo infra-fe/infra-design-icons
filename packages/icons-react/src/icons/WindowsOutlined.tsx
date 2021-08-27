@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import WindowsOutlinedSvg from '@ant-design/icons-svg/lib/asn/WindowsOutlined';
+import WindowsOutlinedSvg from '@infra-design/icons-svg/lib/asn/WindowsOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const WindowsOutlined = (

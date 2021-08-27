@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FastBackwardFilledSvg from '@ant-design/icons-svg/lib/asn/FastBackwardFilled';
+import FastBackwardFilledSvg from '@infra-design/icons-svg/lib/asn/FastBackwardFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FastBackwardFilled = (

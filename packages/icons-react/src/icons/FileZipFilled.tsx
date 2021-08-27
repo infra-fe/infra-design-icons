@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FileZipFilledSvg from '@ant-design/icons-svg/lib/asn/FileZipFilled';
+import FileZipFilledSvg from '@infra-design/icons-svg/lib/asn/FileZipFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FileZipFilled = (

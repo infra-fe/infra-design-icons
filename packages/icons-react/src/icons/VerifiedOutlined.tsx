@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import VerifiedOutlinedSvg from '@ant-design/icons-svg/lib/asn/VerifiedOutlined';
+import VerifiedOutlinedSvg from '@infra-design/icons-svg/lib/asn/VerifiedOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const VerifiedOutlined = (

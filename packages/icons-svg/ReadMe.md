@@ -1,9 +1,9 @@
 <h1 align="center">
-Ant Design Icons
+Infra Design Icons
 </h1>
 
 <p align="center">
-⭐ The abstract node of the Ant Design SVG icons.
+⭐ Base on Ant Design SVG icons.
 </p>
 
 <div align="center">
@@ -19,15 +19,15 @@ Check [all icons list](https://github.com/ant-design/ant-design-icons/issues/227
 
 ```bash
 # use yarn
-$ yarn add @ant-design/icons-svg
+$ yarn add @infra-design/icons-svg
 
 # or use npm
-$ npm install @ant-design/icons-svg --save
+$ npm install @infra-design/icons-svg --save
 ```
 
 ## Use Library Adapter
 
-- React: See [@ant-design/icons](../icons-react) to learn about detail usage.
+- React: See [@infra-design/icons](../icons-react) to learn about detail usage.
 
 ## Contribution Guide 贡献指南
 
@@ -36,9 +36,9 @@ See contribution guide. [English](./docs/ContributionGuide.md) ｜ [中文](./do
 ## Get started
 
 ```ts
-import { AccountBookOutlined } from '@ant-design/icons-svg';
+import { AccountBookOutlined } from '@infra-design/icons-svg';
 // or
-// import AccountBookOutlined from '@ant-design/icons-svg/es/asn/AccountBookOutlined';
+// import AccountBookOutlined from '@infra-design/icons-svg/es/asn/AccountBookOutlined';
 
 console.log(AccountBookOutlined);
 // ==>
@@ -92,8 +92,8 @@ export interface IconDefinition {
 ## Render Helpers
 
 ```ts
-import { AccountBookFilled } from '@ant-design/icons-svg';
-import { renderIconDefinitionToSVGElement } from '@ant-design/icons-svg/es/helpers';
+import { AccountBookFilled } from '@infra-design/icons-svg';
+import { renderIconDefinitionToSVGElement } from '@infra-design/icons-svg/es/helpers';
 
 const svgHTMLString = renderIconDefinitionToSVGElement(AccountBookFilled, {
   extraSVGAttrs: { width: '1em', height: '1em', fill: 'currentColor' }

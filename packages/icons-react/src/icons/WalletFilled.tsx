@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import WalletFilledSvg from '@ant-design/icons-svg/lib/asn/WalletFilled';
+import WalletFilledSvg from '@infra-design/icons-svg/lib/asn/WalletFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const WalletFilled = (

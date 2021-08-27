@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import BlockOutlinedSvg from '@ant-design/icons-svg/lib/asn/BlockOutlined';
+import BlockOutlinedSvg from '@infra-design/icons-svg/lib/asn/BlockOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const BlockOutlined = (

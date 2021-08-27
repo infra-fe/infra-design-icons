@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import LoadingOutlinedSvg from '@ant-design/icons-svg/lib/asn/LoadingOutlined';
+import LoadingOutlinedSvg from '@infra-design/icons-svg/lib/asn/LoadingOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const LoadingOutlined = (

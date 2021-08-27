@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import VerticalRightOutlinedSvg from '@ant-design/icons-svg/lib/asn/VerticalRightOutlined';
+import VerticalRightOutlinedSvg from '@infra-design/icons-svg/lib/asn/VerticalRightOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const VerticalRightOutlined = (

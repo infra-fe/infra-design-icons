@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import GitlabFilledSvg from '@ant-design/icons-svg/lib/asn/GitlabFilled';
+import GitlabFilledSvg from '@infra-design/icons-svg/lib/asn/GitlabFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const GitlabFilled = (

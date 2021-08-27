@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import PaperClipOutlinedSvg from '@ant-design/icons-svg/lib/asn/PaperClipOutlined';
+import PaperClipOutlinedSvg from '@infra-design/icons-svg/lib/asn/PaperClipOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const PaperClipOutlined = (

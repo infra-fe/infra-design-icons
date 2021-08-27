@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import CreditCardFilledSvg from '@ant-design/icons-svg/lib/asn/CreditCardFilled';
+import CreditCardFilledSvg from '@infra-design/icons-svg/lib/asn/CreditCardFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const CreditCardFilled = (

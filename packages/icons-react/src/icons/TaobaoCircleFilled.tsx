@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import TaobaoCircleFilledSvg from '@ant-design/icons-svg/lib/asn/TaobaoCircleFilled';
+import TaobaoCircleFilledSvg from '@infra-design/icons-svg/lib/asn/TaobaoCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const TaobaoCircleFilled = (

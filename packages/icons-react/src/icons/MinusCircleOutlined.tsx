@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import MinusCircleOutlinedSvg from '@ant-design/icons-svg/lib/asn/MinusCircleOutlined';
+import MinusCircleOutlinedSvg from '@infra-design/icons-svg/lib/asn/MinusCircleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const MinusCircleOutlined = (

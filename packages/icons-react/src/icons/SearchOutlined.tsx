@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import SearchOutlinedSvg from '@ant-design/icons-svg/lib/asn/SearchOutlined';
+import SearchOutlinedSvg from '@infra-design/icons-svg/lib/asn/SearchOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const SearchOutlined = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import TabletOutlinedSvg from '@ant-design/icons-svg/lib/asn/TabletOutlined';
+import TabletOutlinedSvg from '@infra-design/icons-svg/lib/asn/TabletOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const TabletOutlined = (

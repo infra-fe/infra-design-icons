@@ -1,6 +1,6 @@
 # Contribution Guide
 
-`@ant-design/icons-svg` is an SVG library recommended by Ant Design official team. It offers the abstract node (essentially a plain object) to be consumed by various UI libraries or framworks.
+`@infra-design/icons-svg` is an SVG library recommended by Ant Design official team an Shopee Infra. It offers the abstract node (essentially a plain object) to be consumed by various UI libraries or framworks.
 
 ## Project structure
 
@@ -68,7 +68,7 @@ and it will use `tsc` to compile files in "src" to the output dirctories `es`、
 
 Make sure that the icon should obey these rules：
 
-1. The icon should come from [Ant Design official library site](https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&cid=9402), or be required from the community and be fitted with [the `Ant Design` icon design rules](https://ant.design/docs/spec/icon).
+1. The icon should come from [Infra Design official library site](https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&cid=9402), or be required from the community and be fitted with [the `Ant Design` icon design rules](https://ant.design/docs/spec/icon).
 
 2. The icon should have `viewBox` attribute with the value `0 0 1024 1024`.
 

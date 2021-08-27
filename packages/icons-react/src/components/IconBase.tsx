@@ -1,12 +1,15 @@
-import * as React from 'react';
-import { AbstractNode, IconDefinition } from '@ant-design/icons-svg/lib/types';
+import * as React from "react";
+import {
+  AbstractNode,
+  IconDefinition,
+} from "@infra-design/icons-svg/lib/types";
 import {
   generate,
   getSecondaryColor,
   isIconDefinition,
   warning,
   useInsertStyles,
-} from '../utils';
+} from "../utils";
 
 export interface IconProps {
   icon: IconDefinition;
@@ -28,8 +31,8 @@ export interface TwoToneColorPalette extends TwoToneColorPaletteSetter {
 }
 
 const twoToneColorPalette: TwoToneColorPalette = {
-  primaryColor: '#333',
-  secondaryColor: '#E6E6E6',
+  primaryColor: "#333",
+  secondaryColor: "#E6E6E6",
   calculated: false,
 };
 
@@ -54,7 +57,7 @@ interface IconBaseComponent<P> extends React.FC<P> {
   setTwoToneColors: typeof setTwoToneColors;
 }
 
-const IconBase: IconBaseComponent<IconProps> = props => {
+const IconBase: IconBaseComponent<IconProps> = (props) => {
   const {
     icon,
     className,
@@ -77,7 +80,7 @@ const IconBase: IconBaseComponent<IconProps> = props => {
 
   warning(
     isIconDefinition(icon),
-    `icon should be icon definiton, but got ${icon}`,
+    `icon should be icon definiton, but got ${icon}`
   );
 
   if (!isIconDefinition(icon)) {
@@ -85,7 +88,7 @@ const IconBase: IconBaseComponent<IconProps> = props => {
   }
 
   let target = icon;
-  if (target && typeof target.icon === 'function') {
+  if (target && typeof target.icon === "function") {
     target = {
       ...target,
       icon: target.icon(colors.primaryColor, colors.secondaryColor),
@@ -95,16 +98,16 @@ const IconBase: IconBaseComponent<IconProps> = props => {
     className,
     onClick,
     style,
-    'data-icon': target.name,
-    width: '1em',
-    height: '1em',
-    fill: 'currentColor',
-    'aria-hidden': 'true',
+    "data-icon": target.name,
+    width: "1em",
+    height: "1em",
+    fill: "currentColor",
+    "aria-hidden": "true",
     ...restProps,
   });
 };
 
-IconBase.displayName = 'IconReact';
+IconBase.displayName = "IconReact";
 IconBase.getTwoToneColors = getTwoToneColors;
 IconBase.setTwoToneColors = setTwoToneColors;
 

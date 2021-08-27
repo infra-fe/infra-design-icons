@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import CiOutlinedSvg from '@ant-design/icons-svg/lib/asn/CiOutlined';
+import CiOutlinedSvg from '@infra-design/icons-svg/lib/asn/CiOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const CiOutlined = (

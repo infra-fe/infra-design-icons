@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import BorderInnerOutlinedSvg from '@ant-design/icons-svg/lib/asn/BorderInnerOutlined';
+import BorderInnerOutlinedSvg from '@infra-design/icons-svg/lib/asn/BorderInnerOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const BorderInnerOutlined = (

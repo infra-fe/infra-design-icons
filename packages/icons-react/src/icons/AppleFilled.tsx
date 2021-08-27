@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import AppleFilledSvg from '@ant-design/icons-svg/lib/asn/AppleFilled';
+import AppleFilledSvg from '@infra-design/icons-svg/lib/asn/AppleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const AppleFilled = (

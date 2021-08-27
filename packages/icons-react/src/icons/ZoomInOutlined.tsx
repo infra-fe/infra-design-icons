@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import ZoomInOutlinedSvg from '@ant-design/icons-svg/lib/asn/ZoomInOutlined';
+import ZoomInOutlinedSvg from '@infra-design/icons-svg/lib/asn/ZoomInOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const ZoomInOutlined = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import CaretRightFilledSvg from '@ant-design/icons-svg/lib/asn/CaretRightFilled';
+import CaretRightFilledSvg from '@infra-design/icons-svg/lib/asn/CaretRightFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const CaretRightFilled = (

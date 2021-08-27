@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import StarFilledSvg from '@ant-design/icons-svg/lib/asn/StarFilled';
+import StarFilledSvg from '@infra-design/icons-svg/lib/asn/StarFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const StarFilled = (

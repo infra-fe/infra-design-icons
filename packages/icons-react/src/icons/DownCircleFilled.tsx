@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import DownCircleFilledSvg from '@ant-design/icons-svg/lib/asn/DownCircleFilled';
+import DownCircleFilledSvg from '@infra-design/icons-svg/lib/asn/DownCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const DownCircleFilled = (

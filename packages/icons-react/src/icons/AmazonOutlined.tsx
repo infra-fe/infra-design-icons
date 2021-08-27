@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import AmazonOutlinedSvg from '@ant-design/icons-svg/lib/asn/AmazonOutlined';
+import AmazonOutlinedSvg from '@infra-design/icons-svg/lib/asn/AmazonOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const AmazonOutlined = (

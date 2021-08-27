@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import CloudFilledSvg from '@ant-design/icons-svg/lib/asn/CloudFilled';
+import CloudFilledSvg from '@infra-design/icons-svg/lib/asn/CloudFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const CloudFilled = (

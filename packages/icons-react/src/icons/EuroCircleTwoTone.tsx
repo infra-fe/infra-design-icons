@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import EuroCircleTwoToneSvg from '@ant-design/icons-svg/lib/asn/EuroCircleTwoTone';
+import EuroCircleTwoToneSvg from '@infra-design/icons-svg/lib/asn/EuroCircleTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const EuroCircleTwoTone = (

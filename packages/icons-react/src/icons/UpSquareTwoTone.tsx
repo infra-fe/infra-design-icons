@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import UpSquareTwoToneSvg from '@ant-design/icons-svg/lib/asn/UpSquareTwoTone';
+import UpSquareTwoToneSvg from '@infra-design/icons-svg/lib/asn/UpSquareTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const UpSquareTwoTone = (

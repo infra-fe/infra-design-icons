@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import CiTwoToneSvg from '@ant-design/icons-svg/lib/asn/CiTwoTone';
+import CiTwoToneSvg from '@infra-design/icons-svg/lib/asn/CiTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const CiTwoTone = (

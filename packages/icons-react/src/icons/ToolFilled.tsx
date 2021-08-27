@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import ToolFilledSvg from '@ant-design/icons-svg/lib/asn/ToolFilled';
+import ToolFilledSvg from '@infra-design/icons-svg/lib/asn/ToolFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const ToolFilled = (

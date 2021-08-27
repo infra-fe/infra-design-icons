@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import BarcodeOutlinedSvg from '@ant-design/icons-svg/lib/asn/BarcodeOutlined';
+import BarcodeOutlinedSvg from '@infra-design/icons-svg/lib/asn/BarcodeOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const BarcodeOutlined = (

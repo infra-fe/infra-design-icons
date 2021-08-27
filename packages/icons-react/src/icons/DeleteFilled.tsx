@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import DeleteFilledSvg from '@ant-design/icons-svg/lib/asn/DeleteFilled';
+import DeleteFilledSvg from '@infra-design/icons-svg/lib/asn/DeleteFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const DeleteFilled = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import TransactionOutlinedSvg from '@ant-design/icons-svg/lib/asn/TransactionOutlined';
+import TransactionOutlinedSvg from '@infra-design/icons-svg/lib/asn/TransactionOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const TransactionOutlined = (

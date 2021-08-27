@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import SkypeOutlinedSvg from '@ant-design/icons-svg/lib/asn/SkypeOutlined';
+import SkypeOutlinedSvg from '@infra-design/icons-svg/lib/asn/SkypeOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const SkypeOutlined = (

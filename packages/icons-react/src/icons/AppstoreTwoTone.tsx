@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import AppstoreTwoToneSvg from '@ant-design/icons-svg/lib/asn/AppstoreTwoTone';
+import AppstoreTwoToneSvg from '@infra-design/icons-svg/lib/asn/AppstoreTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const AppstoreTwoTone = (

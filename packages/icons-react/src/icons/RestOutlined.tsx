@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import RestOutlinedSvg from '@ant-design/icons-svg/lib/asn/RestOutlined';
+import RestOutlinedSvg from '@infra-design/icons-svg/lib/asn/RestOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const RestOutlined = (

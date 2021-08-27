@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import SmallDashOutlinedSvg from '@ant-design/icons-svg/lib/asn/SmallDashOutlined';
+import SmallDashOutlinedSvg from '@infra-design/icons-svg/lib/asn/SmallDashOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const SmallDashOutlined = (

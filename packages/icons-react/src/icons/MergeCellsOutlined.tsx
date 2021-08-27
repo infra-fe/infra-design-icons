@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import MergeCellsOutlinedSvg from '@ant-design/icons-svg/lib/asn/MergeCellsOutlined';
+import MergeCellsOutlinedSvg from '@infra-design/icons-svg/lib/asn/MergeCellsOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const MergeCellsOutlined = (

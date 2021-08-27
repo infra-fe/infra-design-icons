@@ -1,20 +1,23 @@
-import type { AbstractNode, IconDefinition } from '@ant-design/icons-svg/lib/types';
-import { generate as generateColor } from '@ant-design/colors';
-import React, { useContext, useEffect } from 'react';
-import warn from 'rc-util/lib/warning';
-import { updateCSS } from 'rc-util/lib/Dom/dynamicCSS';
-import IconContext from './components/Context';
+import type {
+  AbstractNode,
+  IconDefinition,
+} from "@infra-design/icons-svg/lib/types";
+import { generate as generateColor } from "@ant-design/colors";
+import React, { useContext, useEffect } from "react";
+import warn from "rc-util/lib/warning";
+import { updateCSS } from "rc-util/lib/Dom/dynamicCSS";
+import IconContext from "./components/Context";
 
 export function warning(valid: boolean, message: string) {
-  warn(valid, `[@ant-design/icons] ${message}`);
+  warn(valid, `[@infra-design/icons] ${message}`);
 }
 
 export function isIconDefinition(target: any): target is IconDefinition {
   return (
-    typeof target === 'object' &&
-    typeof target.name === 'string' &&
-    typeof target.theme === 'string' &&
-    (typeof target.icon === 'object' || typeof target.icon === 'function')
+    typeof target === "object" &&
+    typeof target.name === "string" &&
+    typeof target.theme === "string" &&
+    (typeof target.icon === "object" || typeof target.icon === "function")
   );
 }
 
@@ -22,7 +25,7 @@ export function normalizeAttrs(attrs: Attrs = {}): Attrs {
   return Object.keys(attrs).reduce((acc: Attrs, key) => {
     const val = attrs[key];
     switch (key) {
-      case 'class':
+      case "class":
         acc.className = val;
         delete acc.class;
         break;
@@ -40,13 +43,15 @@ export interface Attrs {
 export function generate(
   node: AbstractNode,
   key: string,
-  rootProps?: { [key: string]: any } | false,
+  rootProps?: { [key: string]: any } | false
 ): any {
   if (!rootProps) {
     return React.createElement(
       node.tag,
       { key, ...normalizeAttrs(node.attrs) },
-      (node.children || []).map((child, index) => generate(child, `${key}-${node.tag}-${index}`)),
+      (node.children || []).map((child, index) =>
+        generate(child, `${key}-${node.tag}-${index}`)
+      )
     );
   }
   return React.createElement(
@@ -56,7 +61,9 @@ export function generate(
       ...normalizeAttrs(node.attrs),
       ...rootProps,
     },
-    (node.children || []).map((child, index) => generate(child, `${key}-${node.tag}-${index}`)),
+    (node.children || []).map((child, index) =>
+      generate(child, `${key}-${node.tag}-${index}`)
+    )
   );
 }
 
@@ -66,7 +73,7 @@ export function getSecondaryColor(primaryColor: string): string {
 }
 
 export function normalizeTwoToneColors(
-  twoToneColor: string | [string, string] | undefined,
+  twoToneColor: string | [string, string] | undefined
 ): string[] {
   if (!twoToneColor) {
     return [];
@@ -78,11 +85,11 @@ export function normalizeTwoToneColors(
 // These props make sure that the SVG behaviours like general text.
 // Reference: https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4
 export const svgBaseProps = {
-  width: '1em',
-  height: '1em',
-  fill: 'currentColor',
-  'aria-hidden': 'true',
-  focusable: 'false',
+  width: "1em",
+  height: "1em",
+  fill: "currentColor",
+  "aria-hidden": "true",
+  focusable: "false",
 };
 
 export const iconStyles = `
@@ -145,7 +152,7 @@ export const useInsertStyles = (styleStr: string = iconStyles) => {
   const { csp } = useContext(IconContext);
 
   useEffect(() => {
-    updateCSS(styleStr, '@ant-design-icons', {
+    updateCSS(styleStr, "@infra-design-icons", {
       prepend: true,
       csp,
     });
