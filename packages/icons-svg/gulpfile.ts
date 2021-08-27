@@ -106,11 +106,10 @@ export default series(
       stringify: JSON.stringify,
       template: iconTemplate,
       mapToInterpolate: ({ name, content }) => ({
-        identifier: getIdentifier({ name: `Shopee${upperfirst(name)}` }),
+        identifier: getIdentifier({ name: `I${upperfirst(name)}` }),
         content
       }),
-      filename: ({ name }) =>
-        getIdentifier({ name: `Shopee${upperfirst(name)}` })
+      filename: ({ name }) => getIdentifier({ name: `I${upperfirst(name)}` })
     })
   ),
   parallel(

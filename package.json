@@ -12,7 +12,8 @@
     "react:g": "lerna run --scope infra-design-icons generate",
     "react:compile": "lerna run --scope infra-design-icons compile",
     "lint": "lerna run lint",
-    "publish": "yarn icons:generate && yarn icons:build && yarn react:ci && lerna publish"
+    "gen": "yarn icons:generate && yarn icons:build && yarn react:ci",
+    "publish": "yarn gen && lerna publish"
   },
   "devDependencies": {
     "lerna": "^3.4.0"
