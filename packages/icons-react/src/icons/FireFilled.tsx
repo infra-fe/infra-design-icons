@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FireFilledSvg from '@ant-design/icons-svg/lib/asn/FireFilled';
+import FireFilledSvg from '@infra-design/icons-svg/lib/asn/FireFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FireFilled = (

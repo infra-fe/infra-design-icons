@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FileUnknownOutlinedSvg from '@ant-design/icons-svg/lib/asn/FileUnknownOutlined';
+import FileUnknownOutlinedSvg from '@infra-design/icons-svg/lib/asn/FileUnknownOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FileUnknownOutlined = (

@@ -1,4 +1,4 @@
-import { TwitterOutlined } from '@ant-design/icons-svg';
+import { TwitterOutlined } from '@infra-design/icons-svg';
 import * as React from 'react';
 import { mount } from 'enzyme';
 import Icon from '../src/components/IconBase';

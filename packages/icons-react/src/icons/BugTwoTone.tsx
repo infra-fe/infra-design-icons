@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import BugTwoToneSvg from '@ant-design/icons-svg/lib/asn/BugTwoTone';
+import BugTwoToneSvg from '@infra-design/icons-svg/lib/asn/BugTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const BugTwoTone = (

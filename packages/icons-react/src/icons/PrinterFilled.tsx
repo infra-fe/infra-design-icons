@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import PrinterFilledSvg from '@ant-design/icons-svg/lib/asn/PrinterFilled';
+import PrinterFilledSvg from '@infra-design/icons-svg/lib/asn/PrinterFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const PrinterFilled = (

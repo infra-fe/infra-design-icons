@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import DeleteTwoToneSvg from '@ant-design/icons-svg/lib/asn/DeleteTwoTone';
+import DeleteTwoToneSvg from '@infra-design/icons-svg/lib/asn/DeleteTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const DeleteTwoTone = (

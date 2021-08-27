@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import SwitcherFilledSvg from '@ant-design/icons-svg/lib/asn/SwitcherFilled';
+import SwitcherFilledSvg from '@infra-design/icons-svg/lib/asn/SwitcherFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const SwitcherFilled = (

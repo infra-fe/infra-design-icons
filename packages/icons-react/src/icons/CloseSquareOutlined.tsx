@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import CloseSquareOutlinedSvg from '@ant-design/icons-svg/lib/asn/CloseSquareOutlined';
+import CloseSquareOutlinedSvg from '@infra-design/icons-svg/lib/asn/CloseSquareOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const CloseSquareOutlined = (

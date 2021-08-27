@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import PropertySafetyTwoToneSvg from '@ant-design/icons-svg/lib/asn/PropertySafetyTwoTone';
+import PropertySafetyTwoToneSvg from '@infra-design/icons-svg/lib/asn/PropertySafetyTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const PropertySafetyTwoTone = (

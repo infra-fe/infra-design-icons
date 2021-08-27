@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import TwitterOutlinedSvg from '@ant-design/icons-svg/lib/asn/TwitterOutlined';
+import TwitterOutlinedSvg from '@infra-design/icons-svg/lib/asn/TwitterOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const TwitterOutlined = (

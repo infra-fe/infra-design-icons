@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import AppstoreFilledSvg from '@ant-design/icons-svg/lib/asn/AppstoreFilled';
+import AppstoreFilledSvg from '@infra-design/icons-svg/lib/asn/AppstoreFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const AppstoreFilled = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import StockOutlinedSvg from '@ant-design/icons-svg/lib/asn/StockOutlined';
+import StockOutlinedSvg from '@infra-design/icons-svg/lib/asn/StockOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const StockOutlined = (

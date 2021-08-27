@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import CameraFilledSvg from '@ant-design/icons-svg/lib/asn/CameraFilled';
+import CameraFilledSvg from '@infra-design/icons-svg/lib/asn/CameraFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const CameraFilled = (

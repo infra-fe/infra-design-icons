@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import ScissorOutlinedSvg from '@ant-design/icons-svg/lib/asn/ScissorOutlined';
+import ScissorOutlinedSvg from '@infra-design/icons-svg/lib/asn/ScissorOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const ScissorOutlined = (

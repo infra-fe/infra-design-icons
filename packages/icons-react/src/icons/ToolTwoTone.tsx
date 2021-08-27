@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import ToolTwoToneSvg from '@ant-design/icons-svg/lib/asn/ToolTwoTone';
+import ToolTwoToneSvg from '@infra-design/icons-svg/lib/asn/ToolTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const ToolTwoTone = (

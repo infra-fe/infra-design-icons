@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import DropboxOutlinedSvg from '@ant-design/icons-svg/lib/asn/DropboxOutlined';
+import DropboxOutlinedSvg from '@infra-design/icons-svg/lib/asn/DropboxOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const DropboxOutlined = (

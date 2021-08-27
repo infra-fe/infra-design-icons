@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import SafetyOutlinedSvg from '@ant-design/icons-svg/lib/asn/SafetyOutlined';
+import SafetyOutlinedSvg from '@infra-design/icons-svg/lib/asn/SafetyOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const SafetyOutlined = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import AlibabaOutlinedSvg from '@ant-design/icons-svg/lib/asn/AlibabaOutlined';
+import AlibabaOutlinedSvg from '@infra-design/icons-svg/lib/asn/AlibabaOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const AlibabaOutlined = (

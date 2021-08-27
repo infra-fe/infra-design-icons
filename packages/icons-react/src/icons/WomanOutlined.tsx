@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import WomanOutlinedSvg from '@ant-design/icons-svg/lib/asn/WomanOutlined';
+import WomanOutlinedSvg from '@infra-design/icons-svg/lib/asn/WomanOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const WomanOutlined = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import ExpandAltOutlinedSvg from '@ant-design/icons-svg/lib/asn/ExpandAltOutlined';
+import ExpandAltOutlinedSvg from '@infra-design/icons-svg/lib/asn/ExpandAltOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const ExpandAltOutlined = (

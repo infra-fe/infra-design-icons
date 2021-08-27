@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FunnelPlotOutlinedSvg from '@ant-design/icons-svg/lib/asn/FunnelPlotOutlined';
+import FunnelPlotOutlinedSvg from '@infra-design/icons-svg/lib/asn/FunnelPlotOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FunnelPlotOutlined = (

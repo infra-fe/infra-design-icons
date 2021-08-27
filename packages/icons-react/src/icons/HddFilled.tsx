@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import HddFilledSvg from '@ant-design/icons-svg/lib/asn/HddFilled';
+import HddFilledSvg from '@infra-design/icons-svg/lib/asn/HddFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const HddFilled = (

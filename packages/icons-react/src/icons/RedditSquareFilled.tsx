@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import RedditSquareFilledSvg from '@ant-design/icons-svg/lib/asn/RedditSquareFilled';
+import RedditSquareFilledSvg from '@infra-design/icons-svg/lib/asn/RedditSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const RedditSquareFilled = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import SlidersTwoToneSvg from '@ant-design/icons-svg/lib/asn/SlidersTwoTone';
+import SlidersTwoToneSvg from '@infra-design/icons-svg/lib/asn/SlidersTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const SlidersTwoTone = (

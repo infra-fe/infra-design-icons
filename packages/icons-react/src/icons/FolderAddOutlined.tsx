@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FolderAddOutlinedSvg from '@ant-design/icons-svg/lib/asn/FolderAddOutlined';
+import FolderAddOutlinedSvg from '@infra-design/icons-svg/lib/asn/FolderAddOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FolderAddOutlined = (

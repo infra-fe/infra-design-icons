@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import QuestionCircleFilledSvg from '@ant-design/icons-svg/lib/asn/QuestionCircleFilled';
+import QuestionCircleFilledSvg from '@infra-design/icons-svg/lib/asn/QuestionCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const QuestionCircleFilled = (

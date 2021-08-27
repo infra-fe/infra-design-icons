@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import DislikeTwoToneSvg from '@ant-design/icons-svg/lib/asn/DislikeTwoTone';
+import DislikeTwoToneSvg from '@infra-design/icons-svg/lib/asn/DislikeTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const DislikeTwoTone = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import SlackCircleFilledSvg from '@ant-design/icons-svg/lib/asn/SlackCircleFilled';
+import SlackCircleFilledSvg from '@infra-design/icons-svg/lib/asn/SlackCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const SlackCircleFilled = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import AimOutlinedSvg from '@ant-design/icons-svg/lib/asn/AimOutlined';
+import AimOutlinedSvg from '@infra-design/icons-svg/lib/asn/AimOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const AimOutlined = (

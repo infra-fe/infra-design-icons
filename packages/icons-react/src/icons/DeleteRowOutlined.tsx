@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import DeleteRowOutlinedSvg from '@ant-design/icons-svg/lib/asn/DeleteRowOutlined';
+import DeleteRowOutlinedSvg from '@infra-design/icons-svg/lib/asn/DeleteRowOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const DeleteRowOutlined = (

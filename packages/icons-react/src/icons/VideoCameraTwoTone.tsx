@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import VideoCameraTwoToneSvg from '@ant-design/icons-svg/lib/asn/VideoCameraTwoTone';
+import VideoCameraTwoToneSvg from '@infra-design/icons-svg/lib/asn/VideoCameraTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const VideoCameraTwoTone = (

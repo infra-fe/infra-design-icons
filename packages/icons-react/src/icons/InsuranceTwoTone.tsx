@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import InsuranceTwoToneSvg from '@ant-design/icons-svg/lib/asn/InsuranceTwoTone';
+import InsuranceTwoToneSvg from '@infra-design/icons-svg/lib/asn/InsuranceTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const InsuranceTwoTone = (

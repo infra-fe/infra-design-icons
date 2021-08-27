@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import GlobalOutlinedSvg from '@ant-design/icons-svg/lib/asn/GlobalOutlined';
+import GlobalOutlinedSvg from '@infra-design/icons-svg/lib/asn/GlobalOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const GlobalOutlined = (

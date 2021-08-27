@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FilterTwoToneSvg from '@ant-design/icons-svg/lib/asn/FilterTwoTone';
+import FilterTwoToneSvg from '@infra-design/icons-svg/lib/asn/FilterTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FilterTwoTone = (

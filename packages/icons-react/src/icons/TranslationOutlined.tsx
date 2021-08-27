@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import TranslationOutlinedSvg from '@ant-design/icons-svg/lib/asn/TranslationOutlined';
+import TranslationOutlinedSvg from '@infra-design/icons-svg/lib/asn/TranslationOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const TranslationOutlined = (

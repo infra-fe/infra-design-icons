@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import HeartOutlinedSvg from '@ant-design/icons-svg/lib/asn/HeartOutlined';
+import HeartOutlinedSvg from '@infra-design/icons-svg/lib/asn/HeartOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const HeartOutlined = (

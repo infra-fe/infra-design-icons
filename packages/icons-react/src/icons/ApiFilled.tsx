@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import ApiFilledSvg from '@ant-design/icons-svg/lib/asn/ApiFilled';
+import ApiFilledSvg from '@infra-design/icons-svg/lib/asn/ApiFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const ApiFilled = (

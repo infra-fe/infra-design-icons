@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import PrinterOutlinedSvg from '@ant-design/icons-svg/lib/asn/PrinterOutlined';
+import PrinterOutlinedSvg from '@infra-design/icons-svg/lib/asn/PrinterOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const PrinterOutlined = (

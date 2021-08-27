@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import GiftFilledSvg from '@ant-design/icons-svg/lib/asn/GiftFilled';
+import GiftFilledSvg from '@infra-design/icons-svg/lib/asn/GiftFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const GiftFilled = (

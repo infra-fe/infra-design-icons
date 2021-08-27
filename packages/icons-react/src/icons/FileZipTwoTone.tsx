@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FileZipTwoToneSvg from '@ant-design/icons-svg/lib/asn/FileZipTwoTone';
+import FileZipTwoToneSvg from '@infra-design/icons-svg/lib/asn/FileZipTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FileZipTwoTone = (

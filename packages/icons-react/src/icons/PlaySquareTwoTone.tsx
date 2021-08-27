@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import PlaySquareTwoToneSvg from '@ant-design/icons-svg/lib/asn/PlaySquareTwoTone';
+import PlaySquareTwoToneSvg from '@infra-design/icons-svg/lib/asn/PlaySquareTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const PlaySquareTwoTone = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import DashboardFilledSvg from '@ant-design/icons-svg/lib/asn/DashboardFilled';
+import DashboardFilledSvg from '@infra-design/icons-svg/lib/asn/DashboardFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const DashboardFilled = (

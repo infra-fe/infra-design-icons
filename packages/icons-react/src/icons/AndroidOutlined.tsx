@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import AndroidOutlinedSvg from '@ant-design/icons-svg/lib/asn/AndroidOutlined';
+import AndroidOutlinedSvg from '@infra-design/icons-svg/lib/asn/AndroidOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const AndroidOutlined = (

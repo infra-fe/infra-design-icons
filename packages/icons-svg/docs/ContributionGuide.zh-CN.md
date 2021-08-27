@@ -1,6 +1,6 @@
 # 贡献指南
 
-`@ant-design/icons-svg` 是 Ant Design 官方所推出的语义化矢量图形库。该库提供了描述图标的抽象节点（Abstract Node, ASN）来满足各种框架的基本适配。
+`@infra-design/icons-svg` 是基于 Ant Design 官方以及Shopee Infra设计团队所推出的语义化矢量图形库。该库提供了描述图标的抽象节点（Abstract Node, ASN）来满足各种框架的基本适配。
 
 ## 目录结构
 
@@ -68,7 +68,7 @@ yarn build
 
 首先确保图标符合以下设计上的要求：
 
-1. 图标来自 [Ant Design 官方图标库](https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&cid=9402)，或者社区请愿并符合 `Ant Design` [设计规格](https://ant.design/docs/spec/icon-cn#%E8%AE%BE%E8%AE%A1%E8%A7%84%E6%A0%BC)的图标
+1. 图标来自 [infra Design 官方图标库](https://www.iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&cid=9402)，或者社区请愿并符合 `Ant Design` [设计规格](https://ant.design/docs/spec/icon-cn#%E8%AE%BE%E8%AE%A1%E8%A7%84%E6%A0%BC)的图标
 
 2. 图标的 `viewBox` 为 `0 0 1024 1024`
 

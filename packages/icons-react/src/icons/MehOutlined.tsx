@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import MehOutlinedSvg from '@ant-design/icons-svg/lib/asn/MehOutlined';
+import MehOutlinedSvg from '@infra-design/icons-svg/lib/asn/MehOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const MehOutlined = (

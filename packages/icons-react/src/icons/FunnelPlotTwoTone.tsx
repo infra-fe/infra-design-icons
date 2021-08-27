@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FunnelPlotTwoToneSvg from '@ant-design/icons-svg/lib/asn/FunnelPlotTwoTone';
+import FunnelPlotTwoToneSvg from '@infra-design/icons-svg/lib/asn/FunnelPlotTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FunnelPlotTwoTone = (

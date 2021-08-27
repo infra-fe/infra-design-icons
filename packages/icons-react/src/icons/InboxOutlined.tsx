@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import InboxOutlinedSvg from '@ant-design/icons-svg/lib/asn/InboxOutlined';
+import InboxOutlinedSvg from '@infra-design/icons-svg/lib/asn/InboxOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const InboxOutlined = (

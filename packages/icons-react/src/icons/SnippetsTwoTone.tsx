@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import SnippetsTwoToneSvg from '@ant-design/icons-svg/lib/asn/SnippetsTwoTone';
+import SnippetsTwoToneSvg from '@infra-design/icons-svg/lib/asn/SnippetsTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const SnippetsTwoTone = (

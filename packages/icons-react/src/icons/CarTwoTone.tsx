@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import CarTwoToneSvg from '@ant-design/icons-svg/lib/asn/CarTwoTone';
+import CarTwoToneSvg from '@infra-design/icons-svg/lib/asn/CarTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const CarTwoTone = (

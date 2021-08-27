@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import LikeOutlinedSvg from '@ant-design/icons-svg/lib/asn/LikeOutlined';
+import LikeOutlinedSvg from '@infra-design/icons-svg/lib/asn/LikeOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const LikeOutlined = (

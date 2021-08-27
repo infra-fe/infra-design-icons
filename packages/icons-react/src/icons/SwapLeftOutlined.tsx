@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import SwapLeftOutlinedSvg from '@ant-design/icons-svg/lib/asn/SwapLeftOutlined';
+import SwapLeftOutlinedSvg from '@infra-design/icons-svg/lib/asn/SwapLeftOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const SwapLeftOutlined = (

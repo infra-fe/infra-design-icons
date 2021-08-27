@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import SkinTwoToneSvg from '@ant-design/icons-svg/lib/asn/SkinTwoTone';
+import SkinTwoToneSvg from '@infra-design/icons-svg/lib/asn/SkinTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const SkinTwoTone = (

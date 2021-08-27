@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import DislikeOutlinedSvg from '@ant-design/icons-svg/lib/asn/DislikeOutlined';
+import DislikeOutlinedSvg from '@infra-design/icons-svg/lib/asn/DislikeOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const DislikeOutlined = (

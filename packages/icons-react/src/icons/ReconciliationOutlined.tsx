@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import ReconciliationOutlinedSvg from '@ant-design/icons-svg/lib/asn/ReconciliationOutlined';
+import ReconciliationOutlinedSvg from '@infra-design/icons-svg/lib/asn/ReconciliationOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const ReconciliationOutlined = (

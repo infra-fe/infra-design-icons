@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import MinusSquareFilledSvg from '@ant-design/icons-svg/lib/asn/MinusSquareFilled';
+import MinusSquareFilledSvg from '@infra-design/icons-svg/lib/asn/MinusSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const MinusSquareFilled = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import TrademarkOutlinedSvg from '@ant-design/icons-svg/lib/asn/TrademarkOutlined';
+import TrademarkOutlinedSvg from '@infra-design/icons-svg/lib/asn/TrademarkOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const TrademarkOutlined = (

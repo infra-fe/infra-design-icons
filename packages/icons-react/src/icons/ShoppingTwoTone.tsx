@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import ShoppingTwoToneSvg from '@ant-design/icons-svg/lib/asn/ShoppingTwoTone';
+import ShoppingTwoToneSvg from '@infra-design/icons-svg/lib/asn/ShoppingTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const ShoppingTwoTone = (

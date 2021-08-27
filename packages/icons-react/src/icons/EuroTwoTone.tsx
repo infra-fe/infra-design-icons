@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import EuroTwoToneSvg from '@ant-design/icons-svg/lib/asn/EuroTwoTone';
+import EuroTwoToneSvg from '@infra-design/icons-svg/lib/asn/EuroTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const EuroTwoTone = (

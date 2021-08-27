@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import DollarCircleOutlinedSvg from '@ant-design/icons-svg/lib/asn/DollarCircleOutlined';
+import DollarCircleOutlinedSvg from '@infra-design/icons-svg/lib/asn/DollarCircleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const DollarCircleOutlined = (

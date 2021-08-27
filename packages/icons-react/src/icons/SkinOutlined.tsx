@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import SkinOutlinedSvg from '@ant-design/icons-svg/lib/asn/SkinOutlined';
+import SkinOutlinedSvg from '@infra-design/icons-svg/lib/asn/SkinOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const SkinOutlined = (

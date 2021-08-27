@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import AccountBookOutlinedSvg from '@ant-design/icons-svg/lib/asn/AccountBookOutlined';
+import AccountBookOutlinedSvg from '@infra-design/icons-svg/lib/asn/AccountBookOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const AccountBookOutlined = (

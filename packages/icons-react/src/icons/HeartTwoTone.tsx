@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import HeartTwoToneSvg from '@ant-design/icons-svg/lib/asn/HeartTwoTone';
+import HeartTwoToneSvg from '@infra-design/icons-svg/lib/asn/HeartTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const HeartTwoTone = (

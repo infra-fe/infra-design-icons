@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import InteractionTwoToneSvg from '@ant-design/icons-svg/lib/asn/InteractionTwoTone';
+import InteractionTwoToneSvg from '@infra-design/icons-svg/lib/asn/InteractionTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const InteractionTwoTone = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FireTwoToneSvg from '@ant-design/icons-svg/lib/asn/FireTwoTone';
+import FireTwoToneSvg from '@infra-design/icons-svg/lib/asn/FireTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FireTwoTone = (

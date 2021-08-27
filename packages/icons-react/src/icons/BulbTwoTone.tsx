@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import BulbTwoToneSvg from '@ant-design/icons-svg/lib/asn/BulbTwoTone';
+import BulbTwoToneSvg from '@infra-design/icons-svg/lib/asn/BulbTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const BulbTwoTone = (

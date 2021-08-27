@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import MailFilledSvg from '@ant-design/icons-svg/lib/asn/MailFilled';
+import MailFilledSvg from '@infra-design/icons-svg/lib/asn/MailFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const MailFilled = (

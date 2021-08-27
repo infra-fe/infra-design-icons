@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import CrownTwoToneSvg from '@ant-design/icons-svg/lib/asn/CrownTwoTone';
+import CrownTwoToneSvg from '@infra-design/icons-svg/lib/asn/CrownTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const CrownTwoTone = (

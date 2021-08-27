@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import PlusCircleFilledSvg from '@ant-design/icons-svg/lib/asn/PlusCircleFilled';
+import PlusCircleFilledSvg from '@infra-design/icons-svg/lib/asn/PlusCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const PlusCircleFilled = (

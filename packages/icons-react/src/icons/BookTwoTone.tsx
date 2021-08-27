@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import BookTwoToneSvg from '@ant-design/icons-svg/lib/asn/BookTwoTone';
+import BookTwoToneSvg from '@infra-design/icons-svg/lib/asn/BookTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const BookTwoTone = (

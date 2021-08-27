@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import StepBackwardFilledSvg from '@ant-design/icons-svg/lib/asn/StepBackwardFilled';
+import StepBackwardFilledSvg from '@infra-design/icons-svg/lib/asn/StepBackwardFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const StepBackwardFilled = (

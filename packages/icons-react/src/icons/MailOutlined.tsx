@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import MailOutlinedSvg from '@ant-design/icons-svg/lib/asn/MailOutlined';
+import MailOutlinedSvg from '@infra-design/icons-svg/lib/asn/MailOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const MailOutlined = (

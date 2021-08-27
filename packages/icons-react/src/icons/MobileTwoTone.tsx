@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import MobileTwoToneSvg from '@ant-design/icons-svg/lib/asn/MobileTwoTone';
+import MobileTwoToneSvg from '@infra-design/icons-svg/lib/asn/MobileTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const MobileTwoTone = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FundViewOutlinedSvg from '@ant-design/icons-svg/lib/asn/FundViewOutlined';
+import FundViewOutlinedSvg from '@infra-design/icons-svg/lib/asn/FundViewOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FundViewOutlined = (

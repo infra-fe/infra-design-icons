@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import CodeSandboxSquareFilledSvg from '@ant-design/icons-svg/lib/asn/CodeSandboxSquareFilled';
+import CodeSandboxSquareFilledSvg from '@infra-design/icons-svg/lib/asn/CodeSandboxSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const CodeSandboxSquareFilled = (

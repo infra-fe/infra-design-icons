@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import ReconciliationTwoToneSvg from '@ant-design/icons-svg/lib/asn/ReconciliationTwoTone';
+import ReconciliationTwoToneSvg from '@infra-design/icons-svg/lib/asn/ReconciliationTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const ReconciliationTwoTone = (

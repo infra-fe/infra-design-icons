@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FolderAddTwoToneSvg from '@ant-design/icons-svg/lib/asn/FolderAddTwoTone';
+import FolderAddTwoToneSvg from '@infra-design/icons-svg/lib/asn/FolderAddTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FolderAddTwoTone = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import DisconnectOutlinedSvg from '@ant-design/icons-svg/lib/asn/DisconnectOutlined';
+import DisconnectOutlinedSvg from '@infra-design/icons-svg/lib/asn/DisconnectOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const DisconnectOutlined = (

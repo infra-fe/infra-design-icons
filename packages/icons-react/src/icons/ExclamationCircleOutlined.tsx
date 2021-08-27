@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import ExclamationCircleOutlinedSvg from '@ant-design/icons-svg/lib/asn/ExclamationCircleOutlined';
+import ExclamationCircleOutlinedSvg from '@infra-design/icons-svg/lib/asn/ExclamationCircleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const ExclamationCircleOutlined = (

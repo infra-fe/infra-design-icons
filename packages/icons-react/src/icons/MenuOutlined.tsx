@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import MenuOutlinedSvg from '@ant-design/icons-svg/lib/asn/MenuOutlined';
+import MenuOutlinedSvg from '@infra-design/icons-svg/lib/asn/MenuOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const MenuOutlined = (

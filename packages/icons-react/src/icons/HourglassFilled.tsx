@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import HourglassFilledSvg from '@ant-design/icons-svg/lib/asn/HourglassFilled';
+import HourglassFilledSvg from '@infra-design/icons-svg/lib/asn/HourglassFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const HourglassFilled = (

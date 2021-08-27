@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import PushpinFilledSvg from '@ant-design/icons-svg/lib/asn/PushpinFilled';
+import PushpinFilledSvg from '@infra-design/icons-svg/lib/asn/PushpinFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const PushpinFilled = (

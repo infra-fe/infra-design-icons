@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import PlusSquareOutlinedSvg from '@ant-design/icons-svg/lib/asn/PlusSquareOutlined';
+import PlusSquareOutlinedSvg from '@infra-design/icons-svg/lib/asn/PlusSquareOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const PlusSquareOutlined = (

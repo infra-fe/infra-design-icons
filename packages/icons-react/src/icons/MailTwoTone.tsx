@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import MailTwoToneSvg from '@ant-design/icons-svg/lib/asn/MailTwoTone';
+import MailTwoToneSvg from '@infra-design/icons-svg/lib/asn/MailTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const MailTwoTone = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import PoundCircleFilledSvg from '@ant-design/icons-svg/lib/asn/PoundCircleFilled';
+import PoundCircleFilledSvg from '@infra-design/icons-svg/lib/asn/PoundCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const PoundCircleFilled = (

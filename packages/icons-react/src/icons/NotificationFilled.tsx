@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import NotificationFilledSvg from '@ant-design/icons-svg/lib/asn/NotificationFilled';
+import NotificationFilledSvg from '@infra-design/icons-svg/lib/asn/NotificationFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const NotificationFilled = (

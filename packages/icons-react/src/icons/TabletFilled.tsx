@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import TabletFilledSvg from '@ant-design/icons-svg/lib/asn/TabletFilled';
+import TabletFilledSvg from '@infra-design/icons-svg/lib/asn/TabletFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const TabletFilled = (

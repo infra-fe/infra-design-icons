@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import DownOutlinedSvg from '@ant-design/icons-svg/lib/asn/DownOutlined';
+import DownOutlinedSvg from '@infra-design/icons-svg/lib/asn/DownOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const DownOutlined = (

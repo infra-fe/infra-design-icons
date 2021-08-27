@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import GoldTwoToneSvg from '@ant-design/icons-svg/lib/asn/GoldTwoTone';
+import GoldTwoToneSvg from '@infra-design/icons-svg/lib/asn/GoldTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const GoldTwoTone = (

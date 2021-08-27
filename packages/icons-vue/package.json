@@ -1,5 +1,5 @@
 {
-  "name": "@ant-design/icons-vue",
+  "name": "@infra-design/icons-vue",
   "version": "6.0.1",
   "main": "./lib/index.js",
   "module": "./es/index.js",
@@ -70,7 +70,7 @@
   },
   "dependencies": {
     "@ant-design/colors": "^5.0.0",
-    "@ant-design/icons-svg": "^4.0.0"
+    "@infra-design/icons-svg": "^4.0.0"
   },
   "config": {
     "port": 9528,
@@ -80,5 +80,5 @@
       ]
     }
   },
-  "description": "Ant Design Icons for Vue"
+  "description": "Infra Design Icons for Vue"
 }

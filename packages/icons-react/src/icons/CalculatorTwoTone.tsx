@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import CalculatorTwoToneSvg from '@ant-design/icons-svg/lib/asn/CalculatorTwoTone';
+import CalculatorTwoToneSvg from '@infra-design/icons-svg/lib/asn/CalculatorTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const CalculatorTwoTone = (

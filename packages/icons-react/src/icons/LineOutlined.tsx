@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import LineOutlinedSvg from '@ant-design/icons-svg/lib/asn/LineOutlined';
+import LineOutlinedSvg from '@infra-design/icons-svg/lib/asn/LineOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const LineOutlined = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FullscreenOutlinedSvg from '@ant-design/icons-svg/lib/asn/FullscreenOutlined';
+import FullscreenOutlinedSvg from '@infra-design/icons-svg/lib/asn/FullscreenOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FullscreenOutlined = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import SortAscendingOutlinedSvg from '@ant-design/icons-svg/lib/asn/SortAscendingOutlined';
+import SortAscendingOutlinedSvg from '@infra-design/icons-svg/lib/asn/SortAscendingOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const SortAscendingOutlined = (

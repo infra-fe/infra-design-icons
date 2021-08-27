@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import FrownOutlinedSvg from '@ant-design/icons-svg/lib/asn/FrownOutlined';
+import FrownOutlinedSvg from '@infra-design/icons-svg/lib/asn/FrownOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const FrownOutlined = (

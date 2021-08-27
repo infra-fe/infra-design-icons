@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import ProfileTwoToneSvg from '@ant-design/icons-svg/lib/asn/ProfileTwoTone';
+import ProfileTwoToneSvg from '@infra-design/icons-svg/lib/asn/ProfileTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const ProfileTwoTone = (

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import LoginOutlinedSvg from '@ant-design/icons-svg/lib/asn/LoginOutlined';
+import LoginOutlinedSvg from '@infra-design/icons-svg/lib/asn/LoginOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const LoginOutlined = (

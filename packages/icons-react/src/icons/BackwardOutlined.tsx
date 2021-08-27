@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import BackwardOutlinedSvg from '@ant-design/icons-svg/lib/asn/BackwardOutlined';
+import BackwardOutlinedSvg from '@infra-design/icons-svg/lib/asn/BackwardOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const BackwardOutlined = (

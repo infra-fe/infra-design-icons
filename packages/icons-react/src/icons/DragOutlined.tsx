@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import DragOutlinedSvg from '@ant-design/icons-svg/lib/asn/DragOutlined';
+import DragOutlinedSvg from '@infra-design/icons-svg/lib/asn/DragOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const DragOutlined = (

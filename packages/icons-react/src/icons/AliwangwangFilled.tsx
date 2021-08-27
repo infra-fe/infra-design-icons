@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import AliwangwangFilledSvg from '@ant-design/icons-svg/lib/asn/AliwangwangFilled';
+import AliwangwangFilledSvg from '@infra-design/icons-svg/lib/asn/AliwangwangFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const AliwangwangFilled = (

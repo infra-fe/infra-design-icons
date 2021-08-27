@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import * as React from 'react'
-import MehTwoToneSvg from '@ant-design/icons-svg/lib/asn/MehTwoTone';
+import MehTwoToneSvg from '@infra-design/icons-svg/lib/asn/MehTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 const MehTwoTone = (
