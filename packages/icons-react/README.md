@@ -1,31 +1,26 @@
 <h1 align="center">
-Ant Design Icons for React
+Infra design Icons for React
 </h1>
 
 <div align="center">
 
-[![NPM version](https://img.shields.io/npm/v/@ant-design/icons.svg?style=flat)](https://npmjs.org/package/@ant-design/icons)
-[![NPM downloads](http://img.shields.io/npm/dm/@ant-design/icons.svg?style=flat)](https://npmjs.org/package/@ant-design/icons)
+[![NPM version](https://img.shields.io/npm/v/@ant-design/icons.svg?style=flat)](https://npmjs.org/package/infra-design-icons)
+[![NPM downloads](http://img.shields.io/npm/dm/@ant-design/icons.svg?style=flat)](https://npmjs.org/package/infra-design-icons)
 
 </div>
 
 ## Install
 
 ```bash
-yarn add @ant-design/icons@4.0.0
+yarn add infra-design-icons
 ```
 
 ## Basic Usage
 
-You can import it directly or destructure from `@ant-design/icons` when tree-shaking enabled.
+You can import it directly or destructure from `infra-design-icons` when tree-shaking enabled.
 
 ```ts
-import SmileOutlined from '@ant-design/icons/SmileOutlined';
-import { SmileOutlined } from '@ant-design/icons';
-
-import SmileFilled from '@ant-design/icons/SmileFilled';
-import SmileTwoTone from '@ant-design/icons/SmileTwoTone';
-import { SmileFilled, SmileTwoTone } from '@ant-design/icons';
+import { SmileOutlined } from 'infra-design-icons';
 ```
 
 ## Component Interface

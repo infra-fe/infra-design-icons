@@ -9,7 +9,7 @@ import { updateCSS } from "rc-util/lib/Dom/dynamicCSS";
 import IconContext from "./components/Context";
 
 export function warning(valid: boolean, message: string) {
-  warn(valid, `[@infra-design/icons] ${message}`);
+  warn(valid, `[infra-design-icons] ${message}`);
 }
 
 export function isIconDefinition(target: any): target is IconDefinition {

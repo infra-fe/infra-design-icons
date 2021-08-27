@@ -1,4 +1,4 @@
-import { TwitterOutlined } from '@infra-design/icons-svg';
+import { TwitterOutlined } from 'infra-design-svgs';
 import * as React from 'react';
 import { mount } from 'enzyme';
 import Icon from '../src/components/IconBase';
@@ -21,6 +21,7 @@ describe('React AntdIcon Component', () => {
 
   it('should allow explicit import.', () => {
     const icon = mount(<Icon icon={TwitterOutlined} />);
+    console.log(333333, icon.find('path'))
     expect(typeof icon.find('path').first().prop('d')).toBe('string');
   });
 
