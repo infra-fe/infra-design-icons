@@ -19,10 +19,10 @@ Check [all icons list](https://github.com/ant-design/ant-design-icons/issues/227
 
 ```bash
 # use yarn
-$ yarn add @infra-design/icons-svg
+$ yarn add infra-design-svgs
 
 # or use npm
-$ npm install @infra-design/icons-svg --save
+$ npm install infra-design-svgs --save
 ```
 
 ## Use Library Adapter
@@ -36,9 +36,9 @@ See contribution guide. [English](./docs/ContributionGuide.md) ｜ [中文](./do
 ## Get started
 
 ```ts
-import { AccountBookOutlined } from '@infra-design/icons-svg';
+import { AccountBookOutlined } from 'infra-design-svgs';
 // or
-// import AccountBookOutlined from '@infra-design/icons-svg/es/asn/AccountBookOutlined';
+// import AccountBookOutlined from 'infra-design-svgs/es/asn/AccountBookOutlined';
 
 console.log(AccountBookOutlined);
 // ==>
@@ -92,8 +92,8 @@ export interface IconDefinition {
 ## Render Helpers
 
 ```ts
-import { AccountBookFilled } from '@infra-design/icons-svg';
-import { renderIconDefinitionToSVGElement } from '@infra-design/icons-svg/es/helpers';
+import { AccountBookFilled } from 'infra-design-svgs';
+import { renderIconDefinitionToSVGElement } from 'infra-design-svgs/es/helpers';
 
 const svgHTMLString = renderIconDefinitionToSVGElement(AccountBookFilled, {
   extraSVGAttrs: { width: '1em', height: '1em', fill: 'currentColor' }

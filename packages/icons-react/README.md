@@ -1,5 +1,5 @@
 <h1 align="center">
-Infra design Icons for React
+Infra design Icons for React.
 </h1>
 
 <div align="center">
@@ -29,7 +29,7 @@ import { SmileOutlined } from 'infra-design-icons';
 interface AntdIconProps {
   className?: string;
   onClick?: React.MouseEventHandler<SVGSVGElement>;
-  style?: React.CSSProperties;
+  style?: React.CSSProperties; 
 }
 ```
 
