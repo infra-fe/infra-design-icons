@@ -1,4 +1,5 @@
 import { series, parallel } from 'gulp';
+import upperfirst from 'lodash.upperfirst';
 import {
   clean,
   copy,
@@ -91,6 +92,26 @@ export default series(
         content
       }),
       filename: ({ name }) => getIdentifier({ name, themeSuffix: 'TwoTone' })
+    }),
+    
+    // 2.4 generate abstract node with the shopee icon
+    generateIcons({
+      theme: 'shopee',
+      from: ['svg/shopee/*.svg'],
+      toDir: 'src/asn',
+      svgoConfig: remainFillConfig,
+      extraNodeTransformFactories: [
+        assignAttrsAtTag('svg', { focusable: 'false' }),
+        setDefaultColorAtPathTag('#333')
+      ],
+      stringify: JSON.stringify,
+      template: iconTemplate,
+      mapToInterpolate: ({ name, content }) => ({
+        identifier: getIdentifier({ name: `Shopee${upperfirst(name)}` }),
+        content
+      }),
+      filename: ({ name }) =>
+        getIdentifier({ name: `Shopee${upperfirst(name)}` })
     })
   ),
   parallel(
