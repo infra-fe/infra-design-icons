@@ -4,7 +4,9 @@
 
 1. 在packages/icons-svg/svg/shopee下新增svg图标
 2. 新增的svg文件请将外层的fill去掉
-   
+3. 根目录下运行 ```yarn gen```
+4. 提交commit
+5. 需要发布，移步下面```怎么发布```
 ## 怎么调试
 
 1. 根目录下运行 ```yarn gen```
