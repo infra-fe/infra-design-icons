@@ -116,5 +116,6 @@ if (process.argv[2] === "--target=icon") {
 }
 
 if (process.argv[2] === "--target=entry") {
-  generateEntries();
+  // TODO: 暂时不知道啥用，先注释 by yeyusen
+  // generateEntries();
 }
