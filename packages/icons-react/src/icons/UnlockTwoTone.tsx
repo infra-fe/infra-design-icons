@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import UnlockTwoToneSvg from '@infra-design/icons-svg/lib/asn/UnlockTwoTone';
+import UnlockTwoToneSvg from 'infra-design-svgs/lib/asn/UnlockTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const UnlockTwoTone = (
   props: AntdIconProps,

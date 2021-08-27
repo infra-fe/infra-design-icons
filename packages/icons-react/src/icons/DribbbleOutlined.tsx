@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import DribbbleOutlinedSvg from '@infra-design/icons-svg/lib/asn/DribbbleOutlined';
+import DribbbleOutlinedSvg from 'infra-design-svgs/lib/asn/DribbbleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const DribbbleOutlined = (
   props: AntdIconProps,

@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import FastBackwardOutlinedSvg from '@infra-design/icons-svg/lib/asn/FastBackwardOutlined';
+import FastBackwardOutlinedSvg from 'infra-design-svgs/lib/asn/FastBackwardOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const FastBackwardOutlined = (
   props: AntdIconProps,

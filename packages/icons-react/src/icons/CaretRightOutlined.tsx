@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CaretRightOutlinedSvg from '@infra-design/icons-svg/lib/asn/CaretRightOutlined';
+import CaretRightOutlinedSvg from 'infra-design-svgs/lib/asn/CaretRightOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CaretRightOutlined = (
   props: AntdIconProps,

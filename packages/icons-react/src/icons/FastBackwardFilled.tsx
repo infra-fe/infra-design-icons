@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import FastBackwardFilledSvg from '@infra-design/icons-svg/lib/asn/FastBackwardFilled';
+import FastBackwardFilledSvg from 'infra-design-svgs/lib/asn/FastBackwardFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const FastBackwardFilled = (
   props: AntdIconProps,

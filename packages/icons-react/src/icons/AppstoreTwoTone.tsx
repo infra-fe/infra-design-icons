@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import AppstoreTwoToneSvg from '@infra-design/icons-svg/lib/asn/AppstoreTwoTone';
+import AppstoreTwoToneSvg from 'infra-design-svgs/lib/asn/AppstoreTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const AppstoreTwoTone = (
   props: AntdIconProps,

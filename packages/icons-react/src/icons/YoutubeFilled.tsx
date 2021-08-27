@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import YoutubeFilledSvg from '@infra-design/icons-svg/lib/asn/YoutubeFilled';
+import YoutubeFilledSvg from 'infra-design-svgs/lib/asn/YoutubeFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const YoutubeFilled = (
   props: AntdIconProps,

@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import ShareAltOutlinedSvg from '@infra-design/icons-svg/lib/asn/ShareAltOutlined';
+import ShareAltOutlinedSvg from 'infra-design-svgs/lib/asn/ShareAltOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const ShareAltOutlined = (
   props: AntdIconProps,

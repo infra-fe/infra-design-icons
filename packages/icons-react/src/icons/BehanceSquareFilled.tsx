@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import BehanceSquareFilledSvg from '@infra-design/icons-svg/lib/asn/BehanceSquareFilled';
+import BehanceSquareFilledSvg from 'infra-design-svgs/lib/asn/BehanceSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const BehanceSquareFilled = (
   props: AntdIconProps,

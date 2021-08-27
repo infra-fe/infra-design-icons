@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import TwitterSquareFilledSvg from '@infra-design/icons-svg/lib/asn/TwitterSquareFilled';
+import TwitterSquareFilledSvg from 'infra-design-svgs/lib/asn/TwitterSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const TwitterSquareFilled = (
   props: AntdIconProps,

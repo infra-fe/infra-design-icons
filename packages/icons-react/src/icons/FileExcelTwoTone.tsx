@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import FileExcelTwoToneSvg from '@infra-design/icons-svg/lib/asn/FileExcelTwoTone';
+import FileExcelTwoToneSvg from 'infra-design-svgs/lib/asn/FileExcelTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const FileExcelTwoTone = (
   props: AntdIconProps,

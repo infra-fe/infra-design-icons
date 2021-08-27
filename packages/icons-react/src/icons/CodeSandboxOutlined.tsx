@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CodeSandboxOutlinedSvg from '@infra-design/icons-svg/lib/asn/CodeSandboxOutlined';
+import CodeSandboxOutlinedSvg from 'infra-design-svgs/lib/asn/CodeSandboxOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CodeSandboxOutlined = (
   props: AntdIconProps,

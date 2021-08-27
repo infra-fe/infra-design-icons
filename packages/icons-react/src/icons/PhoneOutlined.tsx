@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import PhoneOutlinedSvg from '@infra-design/icons-svg/lib/asn/PhoneOutlined';
+import PhoneOutlinedSvg from 'infra-design-svgs/lib/asn/PhoneOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const PhoneOutlined = (
   props: AntdIconProps,

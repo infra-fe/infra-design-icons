@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CloseOutlinedSvg from '@infra-design/icons-svg/lib/asn/CloseOutlined';
+import CloseOutlinedSvg from 'infra-design-svgs/lib/asn/CloseOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CloseOutlined = (
   props: AntdIconProps,

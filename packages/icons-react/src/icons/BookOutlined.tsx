@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import BookOutlinedSvg from '@infra-design/icons-svg/lib/asn/BookOutlined';
+import BookOutlinedSvg from 'infra-design-svgs/lib/asn/BookOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const BookOutlined = (
   props: AntdIconProps,

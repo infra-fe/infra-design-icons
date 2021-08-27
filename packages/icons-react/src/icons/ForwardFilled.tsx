@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import ForwardFilledSvg from '@infra-design/icons-svg/lib/asn/ForwardFilled';
+import ForwardFilledSvg from 'infra-design-svgs/lib/asn/ForwardFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const ForwardFilled = (
   props: AntdIconProps,

@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import FileZipOutlinedSvg from '@infra-design/icons-svg/lib/asn/FileZipOutlined';
+import FileZipOutlinedSvg from 'infra-design-svgs/lib/asn/FileZipOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const FileZipOutlined = (
   props: AntdIconProps,

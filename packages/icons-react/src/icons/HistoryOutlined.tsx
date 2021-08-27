@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import HistoryOutlinedSvg from '@infra-design/icons-svg/lib/asn/HistoryOutlined';
+import HistoryOutlinedSvg from 'infra-design-svgs/lib/asn/HistoryOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const HistoryOutlined = (
   props: AntdIconProps,

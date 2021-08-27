@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import DingtalkOutlinedSvg from '@infra-design/icons-svg/lib/asn/DingtalkOutlined';
+import DingtalkOutlinedSvg from 'infra-design-svgs/lib/asn/DingtalkOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const DingtalkOutlined = (
   props: AntdIconProps,

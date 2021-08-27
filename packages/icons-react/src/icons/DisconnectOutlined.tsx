@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import DisconnectOutlinedSvg from '@infra-design/icons-svg/lib/asn/DisconnectOutlined';
+import DisconnectOutlinedSvg from 'infra-design-svgs/lib/asn/DisconnectOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const DisconnectOutlined = (
   props: AntdIconProps,

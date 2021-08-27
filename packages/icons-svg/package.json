@@ -1,6 +1,6 @@
 {
-  "name": "@infra-design/icons-svg",
-  "version": "4.2.4-alpha.0",
+  "name": "infra-design-svgs",
+  "version": "4.2.5",
   "sideEffects": false,
   "description": "Base on ant design icons.",
   "contributors": [
@@ -79,5 +79,5 @@
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "gitHead": "5dbea28c4760e28487d59f350f2acfa11508e4b0"
+  "gitHead": "6e31cc0c921f0638322665223e6e1cdfa53b7387"
 }

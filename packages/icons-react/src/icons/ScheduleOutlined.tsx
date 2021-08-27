@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import ScheduleOutlinedSvg from '@infra-design/icons-svg/lib/asn/ScheduleOutlined';
+import ScheduleOutlinedSvg from 'infra-design-svgs/lib/asn/ScheduleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const ScheduleOutlined = (
   props: AntdIconProps,

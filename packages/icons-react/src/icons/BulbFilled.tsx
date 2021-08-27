@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import BulbFilledSvg from '@infra-design/icons-svg/lib/asn/BulbFilled';
+import BulbFilledSvg from 'infra-design-svgs/lib/asn/BulbFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const BulbFilled = (
   props: AntdIconProps,

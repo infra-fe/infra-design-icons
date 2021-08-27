@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import GoldenFilledSvg from '@infra-design/icons-svg/lib/asn/GoldenFilled';
+import GoldenFilledSvg from 'infra-design-svgs/lib/asn/GoldenFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const GoldenFilled = (
   props: AntdIconProps,

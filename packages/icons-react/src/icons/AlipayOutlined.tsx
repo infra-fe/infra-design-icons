@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import AlipayOutlinedSvg from '@infra-design/icons-svg/lib/asn/AlipayOutlined';
+import AlipayOutlinedSvg from 'infra-design-svgs/lib/asn/AlipayOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const AlipayOutlined = (
   props: AntdIconProps,

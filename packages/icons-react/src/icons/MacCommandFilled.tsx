@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import MacCommandFilledSvg from '@infra-design/icons-svg/lib/asn/MacCommandFilled';
+import MacCommandFilledSvg from 'infra-design-svgs/lib/asn/MacCommandFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const MacCommandFilled = (
   props: AntdIconProps,

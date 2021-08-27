@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import PoundCircleTwoToneSvg from '@infra-design/icons-svg/lib/asn/PoundCircleTwoTone';
+import PoundCircleTwoToneSvg from 'infra-design-svgs/lib/asn/PoundCircleTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const PoundCircleTwoTone = (
   props: AntdIconProps,

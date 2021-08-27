@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import KeyOutlinedSvg from '@infra-design/icons-svg/lib/asn/KeyOutlined';
+import KeyOutlinedSvg from 'infra-design-svgs/lib/asn/KeyOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const KeyOutlined = (
   props: AntdIconProps,

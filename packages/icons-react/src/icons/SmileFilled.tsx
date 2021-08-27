@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import SmileFilledSvg from '@infra-design/icons-svg/lib/asn/SmileFilled';
+import SmileFilledSvg from 'infra-design-svgs/lib/asn/SmileFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const SmileFilled = (
   props: AntdIconProps,

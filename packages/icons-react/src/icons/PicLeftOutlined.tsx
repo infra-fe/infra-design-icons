@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import PicLeftOutlinedSvg from '@infra-design/icons-svg/lib/asn/PicLeftOutlined';
+import PicLeftOutlinedSvg from 'infra-design-svgs/lib/asn/PicLeftOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const PicLeftOutlined = (
   props: AntdIconProps,

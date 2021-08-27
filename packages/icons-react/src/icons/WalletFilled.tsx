@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import WalletFilledSvg from '@infra-design/icons-svg/lib/asn/WalletFilled';
+import WalletFilledSvg from 'infra-design-svgs/lib/asn/WalletFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const WalletFilled = (
   props: AntdIconProps,

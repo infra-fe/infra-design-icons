@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import StrikethroughOutlinedSvg from '@infra-design/icons-svg/lib/asn/StrikethroughOutlined';
+import StrikethroughOutlinedSvg from 'infra-design-svgs/lib/asn/StrikethroughOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const StrikethroughOutlined = (
   props: AntdIconProps,

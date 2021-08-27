@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import GoldOutlinedSvg from '@infra-design/icons-svg/lib/asn/GoldOutlined';
+import GoldOutlinedSvg from 'infra-design-svgs/lib/asn/GoldOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const GoldOutlined = (
   props: AntdIconProps,

@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import NodeCollapseOutlinedSvg from '@infra-design/icons-svg/lib/asn/NodeCollapseOutlined';
+import NodeCollapseOutlinedSvg from 'infra-design-svgs/lib/asn/NodeCollapseOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const NodeCollapseOutlined = (
   props: AntdIconProps,

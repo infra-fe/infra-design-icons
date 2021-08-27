@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import DashOutlinedSvg from '@infra-design/icons-svg/lib/asn/DashOutlined';
+import DashOutlinedSvg from 'infra-design-svgs/lib/asn/DashOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const DashOutlined = (
   props: AntdIconProps,

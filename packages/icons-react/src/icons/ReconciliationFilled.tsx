@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import ReconciliationFilledSvg from '@infra-design/icons-svg/lib/asn/ReconciliationFilled';
+import ReconciliationFilledSvg from 'infra-design-svgs/lib/asn/ReconciliationFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const ReconciliationFilled = (
   props: AntdIconProps,

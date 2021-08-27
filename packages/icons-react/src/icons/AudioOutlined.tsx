@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import AudioOutlinedSvg from '@infra-design/icons-svg/lib/asn/AudioOutlined';
+import AudioOutlinedSvg from 'infra-design-svgs/lib/asn/AudioOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const AudioOutlined = (
   props: AntdIconProps,

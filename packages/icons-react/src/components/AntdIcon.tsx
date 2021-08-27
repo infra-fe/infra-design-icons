@@ -1,6 +1,6 @@
 import * as React from "react";
 import classNames from "classnames";
-import type { IconDefinition } from "@infra-design/icons-svg/lib/types";
+import type { IconDefinition } from "infra-design-svgs/lib/types";
 
 import Context from "./Context";
 import type { IconBaseProps } from "./Icon";

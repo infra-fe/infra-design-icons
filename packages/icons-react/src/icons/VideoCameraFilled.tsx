@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import VideoCameraFilledSvg from '@infra-design/icons-svg/lib/asn/VideoCameraFilled';
+import VideoCameraFilledSvg from 'infra-design-svgs/lib/asn/VideoCameraFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const VideoCameraFilled = (
   props: AntdIconProps,

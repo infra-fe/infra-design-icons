@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import TrademarkOutlinedSvg from '@infra-design/icons-svg/lib/asn/TrademarkOutlined';
+import TrademarkOutlinedSvg from 'infra-design-svgs/lib/asn/TrademarkOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const TrademarkOutlined = (
   props: AntdIconProps,

@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import PayCircleOutlinedSvg from '@infra-design/icons-svg/lib/asn/PayCircleOutlined';
+import PayCircleOutlinedSvg from 'infra-design-svgs/lib/asn/PayCircleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const PayCircleOutlined = (
   props: AntdIconProps,

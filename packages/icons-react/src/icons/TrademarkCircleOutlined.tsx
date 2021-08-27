@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import TrademarkCircleOutlinedSvg from '@infra-design/icons-svg/lib/asn/TrademarkCircleOutlined';
+import TrademarkCircleOutlinedSvg from 'infra-design-svgs/lib/asn/TrademarkCircleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const TrademarkCircleOutlined = (
   props: AntdIconProps,

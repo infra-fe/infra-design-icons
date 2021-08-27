@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import InteractionTwoToneSvg from '@infra-design/icons-svg/lib/asn/InteractionTwoTone';
+import InteractionTwoToneSvg from 'infra-design-svgs/lib/asn/InteractionTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const InteractionTwoTone = (
   props: AntdIconProps,

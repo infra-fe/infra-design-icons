@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import SkypeOutlinedSvg from '@infra-design/icons-svg/lib/asn/SkypeOutlined';
+import SkypeOutlinedSvg from 'infra-design-svgs/lib/asn/SkypeOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const SkypeOutlined = (
   props: AntdIconProps,

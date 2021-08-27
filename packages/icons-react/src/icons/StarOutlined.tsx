@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import StarOutlinedSvg from '@infra-design/icons-svg/lib/asn/StarOutlined';
+import StarOutlinedSvg from 'infra-design-svgs/lib/asn/StarOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const StarOutlined = (
   props: AntdIconProps,

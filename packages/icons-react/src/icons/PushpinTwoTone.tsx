@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import PushpinTwoToneSvg from '@infra-design/icons-svg/lib/asn/PushpinTwoTone';
+import PushpinTwoToneSvg from 'infra-design-svgs/lib/asn/PushpinTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const PushpinTwoTone = (
   props: AntdIconProps,

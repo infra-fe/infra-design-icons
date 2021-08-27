@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import EditOutlinedSvg from '@infra-design/icons-svg/lib/asn/EditOutlined';
+import EditOutlinedSvg from 'infra-design-svgs/lib/asn/EditOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const EditOutlined = (
   props: AntdIconProps,

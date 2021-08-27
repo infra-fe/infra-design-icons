@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import FileSyncOutlinedSvg from '@infra-design/icons-svg/lib/asn/FileSyncOutlined';
+import FileSyncOutlinedSvg from 'infra-design-svgs/lib/asn/FileSyncOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const FileSyncOutlined = (
   props: AntdIconProps,

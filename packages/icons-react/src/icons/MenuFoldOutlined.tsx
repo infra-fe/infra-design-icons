@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import MenuFoldOutlinedSvg from '@infra-design/icons-svg/lib/asn/MenuFoldOutlined';
+import MenuFoldOutlinedSvg from 'infra-design-svgs/lib/asn/MenuFoldOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const MenuFoldOutlined = (
   props: AntdIconProps,

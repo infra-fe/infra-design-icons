@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import DiffTwoToneSvg from '@infra-design/icons-svg/lib/asn/DiffTwoTone';
+import DiffTwoToneSvg from 'infra-design-svgs/lib/asn/DiffTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const DiffTwoTone = (
   props: AntdIconProps,

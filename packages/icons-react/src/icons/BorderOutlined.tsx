@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import BorderOutlinedSvg from '@infra-design/icons-svg/lib/asn/BorderOutlined';
+import BorderOutlinedSvg from 'infra-design-svgs/lib/asn/BorderOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const BorderOutlined = (
   props: AntdIconProps,

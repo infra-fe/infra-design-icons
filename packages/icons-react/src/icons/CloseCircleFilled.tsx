@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CloseCircleFilledSvg from '@infra-design/icons-svg/lib/asn/CloseCircleFilled';
+import CloseCircleFilledSvg from 'infra-design-svgs/lib/asn/CloseCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CloseCircleFilled = (
   props: AntdIconProps,

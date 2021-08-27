@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import ShopeeShopSvg from '@infra-design/icons-svg/lib/asn/ShopeeShop';
+import ShopeeShopSvg from 'infra-design-svgs/lib/asn/ShopeeShop';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const ShopeeShop = (
   props: AntdIconProps,

@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import ExclamationCircleTwoToneSvg from '@infra-design/icons-svg/lib/asn/ExclamationCircleTwoTone';
+import ExclamationCircleTwoToneSvg from 'infra-design-svgs/lib/asn/ExclamationCircleTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const ExclamationCircleTwoTone = (
   props: AntdIconProps,

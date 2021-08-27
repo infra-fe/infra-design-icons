@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import ArrowsAltOutlinedSvg from '@infra-design/icons-svg/lib/asn/ArrowsAltOutlined';
+import ArrowsAltOutlinedSvg from 'infra-design-svgs/lib/asn/ArrowsAltOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const ArrowsAltOutlined = (
   props: AntdIconProps,

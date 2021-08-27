@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import RedditCircleFilledSvg from '@infra-design/icons-svg/lib/asn/RedditCircleFilled';
+import RedditCircleFilledSvg from 'infra-design-svgs/lib/asn/RedditCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const RedditCircleFilled = (
   props: AntdIconProps,

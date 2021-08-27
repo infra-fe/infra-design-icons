@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CopyrightCircleOutlinedSvg from '@infra-design/icons-svg/lib/asn/CopyrightCircleOutlined';
+import CopyrightCircleOutlinedSvg from 'infra-design-svgs/lib/asn/CopyrightCircleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CopyrightCircleOutlined = (
   props: AntdIconProps,

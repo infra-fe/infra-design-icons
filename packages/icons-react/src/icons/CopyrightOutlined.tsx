@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CopyrightOutlinedSvg from '@infra-design/icons-svg/lib/asn/CopyrightOutlined';
+import CopyrightOutlinedSvg from 'infra-design-svgs/lib/asn/CopyrightOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CopyrightOutlined = (
   props: AntdIconProps,

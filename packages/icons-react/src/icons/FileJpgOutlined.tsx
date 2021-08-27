@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import FileJpgOutlinedSvg from '@infra-design/icons-svg/lib/asn/FileJpgOutlined';
+import FileJpgOutlinedSvg from 'infra-design-svgs/lib/asn/FileJpgOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const FileJpgOutlined = (
   props: AntdIconProps,

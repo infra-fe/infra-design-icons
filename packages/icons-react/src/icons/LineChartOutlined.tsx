@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import LineChartOutlinedSvg from '@infra-design/icons-svg/lib/asn/LineChartOutlined';
+import LineChartOutlinedSvg from 'infra-design-svgs/lib/asn/LineChartOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const LineChartOutlined = (
   props: AntdIconProps,

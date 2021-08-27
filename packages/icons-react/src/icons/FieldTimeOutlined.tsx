@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import FieldTimeOutlinedSvg from '@infra-design/icons-svg/lib/asn/FieldTimeOutlined';
+import FieldTimeOutlinedSvg from 'infra-design-svgs/lib/asn/FieldTimeOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const FieldTimeOutlined = (
   props: AntdIconProps,

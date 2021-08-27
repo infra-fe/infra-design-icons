@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CloudUploadOutlinedSvg from '@infra-design/icons-svg/lib/asn/CloudUploadOutlined';
+import CloudUploadOutlinedSvg from 'infra-design-svgs/lib/asn/CloudUploadOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CloudUploadOutlined = (
   props: AntdIconProps,

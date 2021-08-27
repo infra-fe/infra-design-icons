@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import FireFilledSvg from '@infra-design/icons-svg/lib/asn/FireFilled';
+import FireFilledSvg from 'infra-design-svgs/lib/asn/FireFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const FireFilled = (
   props: AntdIconProps,

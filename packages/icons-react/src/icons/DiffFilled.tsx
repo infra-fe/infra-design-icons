@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import DiffFilledSvg from '@infra-design/icons-svg/lib/asn/DiffFilled';
+import DiffFilledSvg from 'infra-design-svgs/lib/asn/DiffFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const DiffFilled = (
   props: AntdIconProps,

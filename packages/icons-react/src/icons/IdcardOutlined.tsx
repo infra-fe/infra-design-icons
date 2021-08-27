@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import IdcardOutlinedSvg from '@infra-design/icons-svg/lib/asn/IdcardOutlined';
+import IdcardOutlinedSvg from 'infra-design-svgs/lib/asn/IdcardOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const IdcardOutlined = (
   props: AntdIconProps,

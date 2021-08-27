@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import AimOutlinedSvg from '@infra-design/icons-svg/lib/asn/AimOutlined';
+import AimOutlinedSvg from 'infra-design-svgs/lib/asn/AimOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const AimOutlined = (
   props: AntdIconProps,

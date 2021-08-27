@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import DownCircleOutlinedSvg from '@infra-design/icons-svg/lib/asn/DownCircleOutlined';
+import DownCircleOutlinedSvg from 'infra-design-svgs/lib/asn/DownCircleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const DownCircleOutlined = (
   props: AntdIconProps,

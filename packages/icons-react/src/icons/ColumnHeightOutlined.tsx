@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import ColumnHeightOutlinedSvg from '@infra-design/icons-svg/lib/asn/ColumnHeightOutlined';
+import ColumnHeightOutlinedSvg from 'infra-design-svgs/lib/asn/ColumnHeightOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const ColumnHeightOutlined = (
   props: AntdIconProps,

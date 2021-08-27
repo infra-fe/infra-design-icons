@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CodeOutlinedSvg from '@infra-design/icons-svg/lib/asn/CodeOutlined';
+import CodeOutlinedSvg from 'infra-design-svgs/lib/asn/CodeOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CodeOutlined = (
   props: AntdIconProps,

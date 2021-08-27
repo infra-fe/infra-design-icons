@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import BellTwoToneSvg from '@infra-design/icons-svg/lib/asn/BellTwoTone';
+import BellTwoToneSvg from 'infra-design-svgs/lib/asn/BellTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const BellTwoTone = (
   props: AntdIconProps,

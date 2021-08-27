@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CompassTwoToneSvg from '@infra-design/icons-svg/lib/asn/CompassTwoTone';
+import CompassTwoToneSvg from 'infra-design-svgs/lib/asn/CompassTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CompassTwoTone = (
   props: AntdIconProps,

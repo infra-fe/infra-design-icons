@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import SlidersOutlinedSvg from '@infra-design/icons-svg/lib/asn/SlidersOutlined';
+import SlidersOutlinedSvg from 'infra-design-svgs/lib/asn/SlidersOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const SlidersOutlined = (
   props: AntdIconProps,

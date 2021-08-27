@@ -1,7 +1,7 @@
 import type {
   AbstractNode,
   IconDefinition,
-} from "@infra-design/icons-svg/lib/types";
+} from "infra-design-svgs/lib/types";
 import { generate as generateColor } from "@ant-design/colors";
 import React, { useContext, useEffect } from "react";
 import warn from "rc-util/lib/warning";

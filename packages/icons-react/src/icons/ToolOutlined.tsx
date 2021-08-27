@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import ToolOutlinedSvg from '@infra-design/icons-svg/lib/asn/ToolOutlined';
+import ToolOutlinedSvg from 'infra-design-svgs/lib/asn/ToolOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const ToolOutlined = (
   props: AntdIconProps,

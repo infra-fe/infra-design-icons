@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import ClusterOutlinedSvg from '@infra-design/icons-svg/lib/asn/ClusterOutlined';
+import ClusterOutlinedSvg from 'infra-design-svgs/lib/asn/ClusterOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const ClusterOutlined = (
   props: AntdIconProps,

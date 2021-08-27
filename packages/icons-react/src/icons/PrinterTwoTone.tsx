@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import PrinterTwoToneSvg from '@infra-design/icons-svg/lib/asn/PrinterTwoTone';
+import PrinterTwoToneSvg from 'infra-design-svgs/lib/asn/PrinterTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const PrinterTwoTone = (
   props: AntdIconProps,

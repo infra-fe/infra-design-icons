@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import RocketFilledSvg from '@infra-design/icons-svg/lib/asn/RocketFilled';
+import RocketFilledSvg from 'infra-design-svgs/lib/asn/RocketFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const RocketFilled = (
   props: AntdIconProps,

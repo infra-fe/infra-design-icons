@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import BoxPlotFilledSvg from '@infra-design/icons-svg/lib/asn/BoxPlotFilled';
+import BoxPlotFilledSvg from 'infra-design-svgs/lib/asn/BoxPlotFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const BoxPlotFilled = (
   props: AntdIconProps,

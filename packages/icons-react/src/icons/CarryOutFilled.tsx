@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CarryOutFilledSvg from '@infra-design/icons-svg/lib/asn/CarryOutFilled';
+import CarryOutFilledSvg from 'infra-design-svgs/lib/asn/CarryOutFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CarryOutFilled = (
   props: AntdIconProps,

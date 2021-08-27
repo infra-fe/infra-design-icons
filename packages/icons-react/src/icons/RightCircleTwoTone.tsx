@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import RightCircleTwoToneSvg from '@infra-design/icons-svg/lib/asn/RightCircleTwoTone';
+import RightCircleTwoToneSvg from 'infra-design-svgs/lib/asn/RightCircleTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const RightCircleTwoTone = (
   props: AntdIconProps,

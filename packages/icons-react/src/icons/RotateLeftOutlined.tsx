@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import RotateLeftOutlinedSvg from '@infra-design/icons-svg/lib/asn/RotateLeftOutlined';
+import RotateLeftOutlinedSvg from 'infra-design-svgs/lib/asn/RotateLeftOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const RotateLeftOutlined = (
   props: AntdIconProps,

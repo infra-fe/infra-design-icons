@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import PieChartFilledSvg from '@infra-design/icons-svg/lib/asn/PieChartFilled';
+import PieChartFilledSvg from 'infra-design-svgs/lib/asn/PieChartFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const PieChartFilled = (
   props: AntdIconProps,

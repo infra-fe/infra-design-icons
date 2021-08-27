@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import VideoCameraOutlinedSvg from '@infra-design/icons-svg/lib/asn/VideoCameraOutlined';
+import VideoCameraOutlinedSvg from 'infra-design-svgs/lib/asn/VideoCameraOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const VideoCameraOutlined = (
   props: AntdIconProps,

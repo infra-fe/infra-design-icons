@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import BugOutlinedSvg from '@infra-design/icons-svg/lib/asn/BugOutlined';
+import BugOutlinedSvg from 'infra-design-svgs/lib/asn/BugOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const BugOutlined = (
   props: AntdIconProps,

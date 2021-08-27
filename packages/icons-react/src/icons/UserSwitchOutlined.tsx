@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import UserSwitchOutlinedSvg from '@infra-design/icons-svg/lib/asn/UserSwitchOutlined';
+import UserSwitchOutlinedSvg from 'infra-design-svgs/lib/asn/UserSwitchOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const UserSwitchOutlined = (
   props: AntdIconProps,

@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import RadiusBottomrightOutlinedSvg from '@infra-design/icons-svg/lib/asn/RadiusBottomrightOutlined';
+import RadiusBottomrightOutlinedSvg from 'infra-design-svgs/lib/asn/RadiusBottomrightOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const RadiusBottomrightOutlined = (
   props: AntdIconProps,

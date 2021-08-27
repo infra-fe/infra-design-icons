@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CodepenCircleFilledSvg from '@infra-design/icons-svg/lib/asn/CodepenCircleFilled';
+import CodepenCircleFilledSvg from 'infra-design-svgs/lib/asn/CodepenCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CodepenCircleFilled = (
   props: AntdIconProps,

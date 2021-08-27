@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import ReloadOutlinedSvg from '@infra-design/icons-svg/lib/asn/ReloadOutlined';
+import ReloadOutlinedSvg from 'infra-design-svgs/lib/asn/ReloadOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const ReloadOutlined = (
   props: AntdIconProps,

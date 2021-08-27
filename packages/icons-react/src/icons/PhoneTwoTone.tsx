@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import PhoneTwoToneSvg from '@infra-design/icons-svg/lib/asn/PhoneTwoTone';
+import PhoneTwoToneSvg from 'infra-design-svgs/lib/asn/PhoneTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const PhoneTwoTone = (
   props: AntdIconProps,

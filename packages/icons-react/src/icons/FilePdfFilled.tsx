@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import FilePdfFilledSvg from '@infra-design/icons-svg/lib/asn/FilePdfFilled';
+import FilePdfFilledSvg from 'infra-design-svgs/lib/asn/FilePdfFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const FilePdfFilled = (
   props: AntdIconProps,

@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import GooglePlusCircleFilledSvg from '@infra-design/icons-svg/lib/asn/GooglePlusCircleFilled';
+import GooglePlusCircleFilledSvg from 'infra-design-svgs/lib/asn/GooglePlusCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const GooglePlusCircleFilled = (
   props: AntdIconProps,

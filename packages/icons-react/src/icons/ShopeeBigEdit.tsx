@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import ShopeeBigEditSvg from '@infra-design/icons-svg/lib/asn/ShopeeBigEdit';
+import ShopeeBigEditSvg from 'infra-design-svgs/lib/asn/ShopeeBigEdit';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const ShopeeBigEdit = (
   props: AntdIconProps,

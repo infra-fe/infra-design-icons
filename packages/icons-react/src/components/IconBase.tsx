@@ -2,7 +2,7 @@ import * as React from "react";
 import {
   AbstractNode,
   IconDefinition,
-} from "@infra-design/icons-svg/lib/types";
+} from "infra-design-svgs/lib/types";
 import {
   generate,
   getSecondaryColor,

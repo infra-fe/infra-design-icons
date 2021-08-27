@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import NotificationFilledSvg from '@infra-design/icons-svg/lib/asn/NotificationFilled';
+import NotificationFilledSvg from 'infra-design-svgs/lib/asn/NotificationFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const NotificationFilled = (
   props: AntdIconProps,

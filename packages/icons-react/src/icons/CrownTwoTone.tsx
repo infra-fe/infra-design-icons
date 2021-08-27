@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CrownTwoToneSvg from '@infra-design/icons-svg/lib/asn/CrownTwoTone';
+import CrownTwoToneSvg from 'infra-design-svgs/lib/asn/CrownTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CrownTwoTone = (
   props: AntdIconProps,

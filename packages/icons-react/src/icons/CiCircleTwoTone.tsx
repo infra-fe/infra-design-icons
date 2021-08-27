@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CiCircleTwoToneSvg from '@infra-design/icons-svg/lib/asn/CiCircleTwoTone';
+import CiCircleTwoToneSvg from 'infra-design-svgs/lib/asn/CiCircleTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CiCircleTwoTone = (
   props: AntdIconProps,

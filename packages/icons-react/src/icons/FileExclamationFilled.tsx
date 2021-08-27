@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import FileExclamationFilledSvg from '@infra-design/icons-svg/lib/asn/FileExclamationFilled';
+import FileExclamationFilledSvg from 'infra-design-svgs/lib/asn/FileExclamationFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const FileExclamationFilled = (
   props: AntdIconProps,

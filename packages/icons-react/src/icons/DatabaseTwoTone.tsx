@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import DatabaseTwoToneSvg from '@infra-design/icons-svg/lib/asn/DatabaseTwoTone';
+import DatabaseTwoToneSvg from 'infra-design-svgs/lib/asn/DatabaseTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const DatabaseTwoTone = (
   props: AntdIconProps,

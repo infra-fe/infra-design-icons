@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import IssuesCloseOutlinedSvg from '@infra-design/icons-svg/lib/asn/IssuesCloseOutlined';
+import IssuesCloseOutlinedSvg from 'infra-design-svgs/lib/asn/IssuesCloseOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const IssuesCloseOutlined = (
   props: AntdIconProps,

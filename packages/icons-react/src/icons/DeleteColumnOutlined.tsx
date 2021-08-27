@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import DeleteColumnOutlinedSvg from '@infra-design/icons-svg/lib/asn/DeleteColumnOutlined';
+import DeleteColumnOutlinedSvg from 'infra-design-svgs/lib/asn/DeleteColumnOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const DeleteColumnOutlined = (
   props: AntdIconProps,

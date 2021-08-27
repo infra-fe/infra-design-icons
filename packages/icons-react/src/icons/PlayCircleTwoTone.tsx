@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import PlayCircleTwoToneSvg from '@infra-design/icons-svg/lib/asn/PlayCircleTwoTone';
+import PlayCircleTwoToneSvg from 'infra-design-svgs/lib/asn/PlayCircleTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const PlayCircleTwoTone = (
   props: AntdIconProps,

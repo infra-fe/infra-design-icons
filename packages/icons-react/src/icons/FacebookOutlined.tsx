@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import FacebookOutlinedSvg from '@infra-design/icons-svg/lib/asn/FacebookOutlined';
+import FacebookOutlinedSvg from 'infra-design-svgs/lib/asn/FacebookOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const FacebookOutlined = (
   props: AntdIconProps,

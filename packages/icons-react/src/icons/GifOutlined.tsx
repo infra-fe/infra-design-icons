@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import GifOutlinedSvg from '@infra-design/icons-svg/lib/asn/GifOutlined';
+import GifOutlinedSvg from 'infra-design-svgs/lib/asn/GifOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const GifOutlined = (
   props: AntdIconProps,

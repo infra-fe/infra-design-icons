@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import SkinTwoToneSvg from '@infra-design/icons-svg/lib/asn/SkinTwoTone';
+import SkinTwoToneSvg from 'infra-design-svgs/lib/asn/SkinTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const SkinTwoTone = (
   props: AntdIconProps,

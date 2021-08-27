@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CompressOutlinedSvg from '@infra-design/icons-svg/lib/asn/CompressOutlined';
+import CompressOutlinedSvg from 'infra-design-svgs/lib/asn/CompressOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CompressOutlined = (
   props: AntdIconProps,

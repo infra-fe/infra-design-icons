@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CompassFilledSvg from '@infra-design/icons-svg/lib/asn/CompassFilled';
+import CompassFilledSvg from 'infra-design-svgs/lib/asn/CompassFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CompassFilled = (
   props: AntdIconProps,

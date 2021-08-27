@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import PoweroffOutlinedSvg from '@infra-design/icons-svg/lib/asn/PoweroffOutlined';
+import PoweroffOutlinedSvg from 'infra-design-svgs/lib/asn/PoweroffOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const PoweroffOutlined = (
   props: AntdIconProps,

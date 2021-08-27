@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import AppstoreAddOutlinedSvg from '@infra-design/icons-svg/lib/asn/AppstoreAddOutlined';
+import AppstoreAddOutlinedSvg from 'infra-design-svgs/lib/asn/AppstoreAddOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const AppstoreAddOutlined = (
   props: AntdIconProps,

@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import Html5FilledSvg from '@infra-design/icons-svg/lib/asn/Html5Filled';
+import Html5FilledSvg from 'infra-design-svgs/lib/asn/Html5Filled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const Html5Filled = (
   props: AntdIconProps,

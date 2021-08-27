@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import InsertRowLeftOutlinedSvg from '@infra-design/icons-svg/lib/asn/InsertRowLeftOutlined';
+import InsertRowLeftOutlinedSvg from 'infra-design-svgs/lib/asn/InsertRowLeftOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const InsertRowLeftOutlined = (
   props: AntdIconProps,

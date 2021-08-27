@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import AlipayCircleFilledSvg from '@infra-design/icons-svg/lib/asn/AlipayCircleFilled';
+import AlipayCircleFilledSvg from 'infra-design-svgs/lib/asn/AlipayCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const AlipayCircleFilled = (
   props: AntdIconProps,

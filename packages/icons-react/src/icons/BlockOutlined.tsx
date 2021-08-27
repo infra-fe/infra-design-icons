@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import BlockOutlinedSvg from '@infra-design/icons-svg/lib/asn/BlockOutlined';
+import BlockOutlinedSvg from 'infra-design-svgs/lib/asn/BlockOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const BlockOutlined = (
   props: AntdIconProps,

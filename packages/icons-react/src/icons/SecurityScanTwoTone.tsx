@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import SecurityScanTwoToneSvg from '@infra-design/icons-svg/lib/asn/SecurityScanTwoTone';
+import SecurityScanTwoToneSvg from 'infra-design-svgs/lib/asn/SecurityScanTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const SecurityScanTwoTone = (
   props: AntdIconProps,

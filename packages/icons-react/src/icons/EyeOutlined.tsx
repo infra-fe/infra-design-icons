@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import EyeOutlinedSvg from '@infra-design/icons-svg/lib/asn/EyeOutlined';
+import EyeOutlinedSvg from 'infra-design-svgs/lib/asn/EyeOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const EyeOutlined = (
   props: AntdIconProps,

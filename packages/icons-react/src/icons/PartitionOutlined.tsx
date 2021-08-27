@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import PartitionOutlinedSvg from '@infra-design/icons-svg/lib/asn/PartitionOutlined';
+import PartitionOutlinedSvg from 'infra-design-svgs/lib/asn/PartitionOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const PartitionOutlined = (
   props: AntdIconProps,

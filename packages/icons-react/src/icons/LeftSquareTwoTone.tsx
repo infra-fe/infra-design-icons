@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import LeftSquareTwoToneSvg from '@infra-design/icons-svg/lib/asn/LeftSquareTwoTone';
+import LeftSquareTwoToneSvg from 'infra-design-svgs/lib/asn/LeftSquareTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const LeftSquareTwoTone = (
   props: AntdIconProps,

@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import FolderAddFilledSvg from '@infra-design/icons-svg/lib/asn/FolderAddFilled';
+import FolderAddFilledSvg from 'infra-design-svgs/lib/asn/FolderAddFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const FolderAddFilled = (
   props: AntdIconProps,

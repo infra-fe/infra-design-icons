@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import GithubOutlinedSvg from '@infra-design/icons-svg/lib/asn/GithubOutlined';
+import GithubOutlinedSvg from 'infra-design-svgs/lib/asn/GithubOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const GithubOutlined = (
   props: AntdIconProps,

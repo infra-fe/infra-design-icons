@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import ExclamationOutlinedSvg from '@infra-design/icons-svg/lib/asn/ExclamationOutlined';
+import ExclamationOutlinedSvg from 'infra-design-svgs/lib/asn/ExclamationOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const ExclamationOutlined = (
   props: AntdIconProps,

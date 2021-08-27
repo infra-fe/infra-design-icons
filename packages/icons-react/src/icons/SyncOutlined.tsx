@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import SyncOutlinedSvg from '@infra-design/icons-svg/lib/asn/SyncOutlined';
+import SyncOutlinedSvg from 'infra-design-svgs/lib/asn/SyncOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const SyncOutlined = (
   props: AntdIconProps,

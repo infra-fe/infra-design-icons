@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import TableOutlinedSvg from '@infra-design/icons-svg/lib/asn/TableOutlined';
+import TableOutlinedSvg from 'infra-design-svgs/lib/asn/TableOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const TableOutlined = (
   props: AntdIconProps,

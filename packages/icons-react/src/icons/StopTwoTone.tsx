@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import StopTwoToneSvg from '@infra-design/icons-svg/lib/asn/StopTwoTone';
+import StopTwoToneSvg from 'infra-design-svgs/lib/asn/StopTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const StopTwoTone = (
   props: AntdIconProps,

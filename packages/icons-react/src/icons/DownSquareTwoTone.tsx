@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import DownSquareTwoToneSvg from '@infra-design/icons-svg/lib/asn/DownSquareTwoTone';
+import DownSquareTwoToneSvg from 'infra-design-svgs/lib/asn/DownSquareTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const DownSquareTwoTone = (
   props: AntdIconProps,

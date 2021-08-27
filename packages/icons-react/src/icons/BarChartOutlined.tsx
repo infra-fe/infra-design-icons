@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import BarChartOutlinedSvg from '@infra-design/icons-svg/lib/asn/BarChartOutlined';
+import BarChartOutlinedSvg from 'infra-design-svgs/lib/asn/BarChartOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const BarChartOutlined = (
   props: AntdIconProps,

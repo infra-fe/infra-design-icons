@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import BehanceOutlinedSvg from '@infra-design/icons-svg/lib/asn/BehanceOutlined';
+import BehanceOutlinedSvg from 'infra-design-svgs/lib/asn/BehanceOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const BehanceOutlined = (
   props: AntdIconProps,

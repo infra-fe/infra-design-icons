@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CaretLeftFilledSvg from '@infra-design/icons-svg/lib/asn/CaretLeftFilled';
+import CaretLeftFilledSvg from 'infra-design-svgs/lib/asn/CaretLeftFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CaretLeftFilled = (
   props: AntdIconProps,

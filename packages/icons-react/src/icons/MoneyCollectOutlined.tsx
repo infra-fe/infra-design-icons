@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import MoneyCollectOutlinedSvg from '@infra-design/icons-svg/lib/asn/MoneyCollectOutlined';
+import MoneyCollectOutlinedSvg from 'infra-design-svgs/lib/asn/MoneyCollectOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const MoneyCollectOutlined = (
   props: AntdIconProps,

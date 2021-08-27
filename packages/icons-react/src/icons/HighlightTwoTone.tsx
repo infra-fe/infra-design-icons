@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import HighlightTwoToneSvg from '@infra-design/icons-svg/lib/asn/HighlightTwoTone';
+import HighlightTwoToneSvg from 'infra-design-svgs/lib/asn/HighlightTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const HighlightTwoTone = (
   props: AntdIconProps,

@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CarTwoToneSvg from '@infra-design/icons-svg/lib/asn/CarTwoTone';
+import CarTwoToneSvg from 'infra-design-svgs/lib/asn/CarTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CarTwoTone = (
   props: AntdIconProps,

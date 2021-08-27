@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import FileSearchOutlinedSvg from '@infra-design/icons-svg/lib/asn/FileSearchOutlined';
+import FileSearchOutlinedSvg from 'infra-design-svgs/lib/asn/FileSearchOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const FileSearchOutlined = (
   props: AntdIconProps,

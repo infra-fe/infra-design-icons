@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import AppleOutlinedSvg from '@infra-design/icons-svg/lib/asn/AppleOutlined';
+import AppleOutlinedSvg from 'infra-design-svgs/lib/asn/AppleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const AppleOutlined = (
   props: AntdIconProps,

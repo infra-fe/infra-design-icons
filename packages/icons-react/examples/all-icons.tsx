@@ -1,4 +1,4 @@
-import { ThemeType } from "@infra-design/icons-svg/lib/types";
+import { ThemeType } from "infra-design-svgs/lib/types";
 import * as React from "react";
 import styled from "styled-components";
 import * as AntdIcons from "../src/icons";

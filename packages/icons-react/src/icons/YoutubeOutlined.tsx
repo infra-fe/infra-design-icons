@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import YoutubeOutlinedSvg from '@infra-design/icons-svg/lib/asn/YoutubeOutlined';
+import YoutubeOutlinedSvg from 'infra-design-svgs/lib/asn/YoutubeOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const YoutubeOutlined = (
   props: AntdIconProps,

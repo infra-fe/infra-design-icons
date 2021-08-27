@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CloudTwoToneSvg from '@infra-design/icons-svg/lib/asn/CloudTwoTone';
+import CloudTwoToneSvg from 'infra-design-svgs/lib/asn/CloudTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CloudTwoTone = (
   props: AntdIconProps,

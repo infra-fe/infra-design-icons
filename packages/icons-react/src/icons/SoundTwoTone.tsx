@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import SoundTwoToneSvg from '@infra-design/icons-svg/lib/asn/SoundTwoTone';
+import SoundTwoToneSvg from 'infra-design-svgs/lib/asn/SoundTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const SoundTwoTone = (
   props: AntdIconProps,

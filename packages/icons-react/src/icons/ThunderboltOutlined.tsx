@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import ThunderboltOutlinedSvg from '@infra-design/icons-svg/lib/asn/ThunderboltOutlined';
+import ThunderboltOutlinedSvg from 'infra-design-svgs/lib/asn/ThunderboltOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const ThunderboltOutlined = (
   props: AntdIconProps,

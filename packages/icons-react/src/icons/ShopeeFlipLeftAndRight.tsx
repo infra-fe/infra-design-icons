@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import ShopeeFlipLeftAndRightSvg from '@infra-design/icons-svg/lib/asn/ShopeeFlipLeftAndRight';
+import ShopeeFlipLeftAndRightSvg from 'infra-design-svgs/lib/asn/ShopeeFlipLeftAndRight';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const ShopeeFlipLeftAndRight = (
   props: AntdIconProps,

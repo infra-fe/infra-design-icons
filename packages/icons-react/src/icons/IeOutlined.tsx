@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import IeOutlinedSvg from '@infra-design/icons-svg/lib/asn/IeOutlined';
+import IeOutlinedSvg from 'infra-design-svgs/lib/asn/IeOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const IeOutlined = (
   props: AntdIconProps,

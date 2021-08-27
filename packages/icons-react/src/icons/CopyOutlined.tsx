@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CopyOutlinedSvg from '@infra-design/icons-svg/lib/asn/CopyOutlined';
+import CopyOutlinedSvg from 'infra-design-svgs/lib/asn/CopyOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CopyOutlined = (
   props: AntdIconProps,

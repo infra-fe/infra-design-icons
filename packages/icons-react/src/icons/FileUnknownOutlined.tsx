@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import FileUnknownOutlinedSvg from '@infra-design/icons-svg/lib/asn/FileUnknownOutlined';
+import FileUnknownOutlinedSvg from 'infra-design-svgs/lib/asn/FileUnknownOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const FileUnknownOutlined = (
   props: AntdIconProps,

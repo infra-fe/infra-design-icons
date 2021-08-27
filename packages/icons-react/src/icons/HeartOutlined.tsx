@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import HeartOutlinedSvg from '@infra-design/icons-svg/lib/asn/HeartOutlined';
+import HeartOutlinedSvg from 'infra-design-svgs/lib/asn/HeartOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const HeartOutlined = (
   props: AntdIconProps,

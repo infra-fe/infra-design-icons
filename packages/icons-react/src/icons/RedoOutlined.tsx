@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import RedoOutlinedSvg from '@infra-design/icons-svg/lib/asn/RedoOutlined';
+import RedoOutlinedSvg from 'infra-design-svgs/lib/asn/RedoOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const RedoOutlined = (
   props: AntdIconProps,

@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import CheckSquareFilledSvg from '@infra-design/icons-svg/lib/asn/CheckSquareFilled';
+import CheckSquareFilledSvg from 'infra-design-svgs/lib/asn/CheckSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const CheckSquareFilled = (
   props: AntdIconProps,

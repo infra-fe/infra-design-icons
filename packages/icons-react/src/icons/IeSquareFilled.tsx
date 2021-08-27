@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import IeSquareFilledSvg from '@infra-design/icons-svg/lib/asn/IeSquareFilled';
+import IeSquareFilledSvg from 'infra-design-svgs/lib/asn/IeSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const IeSquareFilled = (
   props: AntdIconProps,

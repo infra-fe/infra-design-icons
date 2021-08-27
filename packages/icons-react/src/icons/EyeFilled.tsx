@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import EyeFilledSvg from '@infra-design/icons-svg/lib/asn/EyeFilled';
+import EyeFilledSvg from 'infra-design-svgs/lib/asn/EyeFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const EyeFilled = (
   props: AntdIconProps,

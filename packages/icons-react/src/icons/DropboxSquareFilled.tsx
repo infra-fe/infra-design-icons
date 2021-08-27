@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import DropboxSquareFilledSvg from '@infra-design/icons-svg/lib/asn/DropboxSquareFilled';
+import DropboxSquareFilledSvg from 'infra-design-svgs/lib/asn/DropboxSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const DropboxSquareFilled = (
   props: AntdIconProps,

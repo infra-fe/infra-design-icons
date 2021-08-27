@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import Loading3QuartersOutlinedSvg from '@infra-design/icons-svg/lib/asn/Loading3QuartersOutlined';
+import Loading3QuartersOutlinedSvg from 'infra-design-svgs/lib/asn/Loading3QuartersOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const Loading3QuartersOutlined = (
   props: AntdIconProps,

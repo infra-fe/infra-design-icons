@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import BgColorsOutlinedSvg from '@infra-design/icons-svg/lib/asn/BgColorsOutlined';
+import BgColorsOutlinedSvg from 'infra-design-svgs/lib/asn/BgColorsOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const BgColorsOutlined = (
   props: AntdIconProps,

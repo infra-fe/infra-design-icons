@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import EditFilledSvg from '@infra-design/icons-svg/lib/asn/EditFilled';
+import EditFilledSvg from 'infra-design-svgs/lib/asn/EditFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const EditFilled = (
   props: AntdIconProps,

@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import SmileOutlinedSvg from '@infra-design/icons-svg/lib/asn/SmileOutlined';
+import SmileOutlinedSvg from 'infra-design-svgs/lib/asn/SmileOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const SmileOutlined = (
   props: AntdIconProps,

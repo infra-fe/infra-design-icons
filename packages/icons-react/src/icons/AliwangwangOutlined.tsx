@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import AliwangwangOutlinedSvg from '@infra-design/icons-svg/lib/asn/AliwangwangOutlined';
+import AliwangwangOutlinedSvg from 'infra-design-svgs/lib/asn/AliwangwangOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const AliwangwangOutlined = (
   props: AntdIconProps,

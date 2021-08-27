@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import MediumSquareFilledSvg from '@infra-design/icons-svg/lib/asn/MediumSquareFilled';
+import MediumSquareFilledSvg from 'infra-design-svgs/lib/asn/MediumSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const MediumSquareFilled = (
   props: AntdIconProps,

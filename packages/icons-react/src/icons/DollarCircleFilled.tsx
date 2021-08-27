@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import DollarCircleFilledSvg from '@infra-design/icons-svg/lib/asn/DollarCircleFilled';
+import DollarCircleFilledSvg from 'infra-design-svgs/lib/asn/DollarCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const DollarCircleFilled = (
   props: AntdIconProps,

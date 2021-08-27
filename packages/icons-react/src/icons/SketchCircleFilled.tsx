@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import SketchCircleFilledSvg from '@infra-design/icons-svg/lib/asn/SketchCircleFilled';
+import SketchCircleFilledSvg from 'infra-design-svgs/lib/asn/SketchCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const SketchCircleFilled = (
   props: AntdIconProps,

@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import RocketOutlinedSvg from '@infra-design/icons-svg/lib/asn/RocketOutlined';
+import RocketOutlinedSvg from 'infra-design-svgs/lib/asn/RocketOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const RocketOutlined = (
   props: AntdIconProps,

@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import TagOutlinedSvg from '@infra-design/icons-svg/lib/asn/TagOutlined';
+import TagOutlinedSvg from 'infra-design-svgs/lib/asn/TagOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const TagOutlined = (
   props: AntdIconProps,

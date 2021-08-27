@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import UpCircleFilledSvg from '@infra-design/icons-svg/lib/asn/UpCircleFilled';
+import UpCircleFilledSvg from 'infra-design-svgs/lib/asn/UpCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const UpCircleFilled = (
   props: AntdIconProps,

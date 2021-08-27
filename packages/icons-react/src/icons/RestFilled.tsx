@@ -1,7 +1,7 @@
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
 import * as React from 'react'
-import RestFilledSvg from '@infra-design/icons-svg/lib/asn/RestFilled';
+import RestFilledSvg from 'infra-design-svgs/lib/asn/RestFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 const RestFilled = (
   props: AntdIconProps,
