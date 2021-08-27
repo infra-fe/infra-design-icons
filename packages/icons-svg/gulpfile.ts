@@ -93,7 +93,7 @@ export default series(
       }),
       filename: ({ name }) => getIdentifier({ name, themeSuffix: 'TwoTone' })
     }),
-    
+
     // 2.4 generate abstract node with the shopee icon
     generateIcons({
       theme: 'shopee',
@@ -101,8 +101,7 @@ export default series(
       toDir: 'src/asn',
       svgoConfig: remainFillConfig,
       extraNodeTransformFactories: [
-        assignAttrsAtTag('svg', { focusable: 'false' }),
-        setDefaultColorAtPathTag('#333')
+        assignAttrsAtTag('svg', { focusable: 'false' })
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
