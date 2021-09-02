@@ -10,15 +10,11 @@
 ## 怎么调试
 
 1. 根目录下运行 ```yarn gen```
-2. npm link包进行调试
+2. 本地调试
  ```sh
-  cd packages/icons/react
-  npm link
+  cd packages/icons-react
+  yarn start
  ```
-3. 业务项目中
-   ```sh
-    npm link infra-design-icons
-   ```
 
 ## 怎么发布
 
