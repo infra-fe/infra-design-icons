@@ -29,6 +29,8 @@ const allIcons: {
   [key: string]: any;
 } = AntdIcons;
 
+const ShopeeRegex = /[A-Z]/;
+
 const AllIconDemo = () => {
   const [currentTheme, setCurrentTheme] = React.useState("Outlined");
 
@@ -40,13 +42,16 @@ const AllIconDemo = () => {
     []
   );
 
-  const visibleIconList = React.useMemo(
-    () =>
-      Object.keys(allIcons).filter((iconName) =>
-        iconName.includes(currentTheme)
-      ),
-    [currentTheme]
-  );
+  const iconKeys = React.useMemo(() => Object.keys(allIcons), []);
+
+  const visibleIconList = React.useMemo(() => {
+    if (currentTheme === "Shopee") {
+      return iconKeys.filter(
+        (iconName) => iconName[0] === "I" && ShopeeRegex.test(iconName[1])
+      );
+    }
+    return iconKeys.filter((iconName) => iconName.includes(currentTheme));
+  }, [currentTheme]);
 
   return (
     <div style={{ color: "#555" }}>
@@ -57,6 +62,7 @@ const AllIconDemo = () => {
           value={currentTheme}
           onChange={handleSelectChange}
         >
+          <option value="Shopee">Shopee</option>
           <option value="Filled">Filled</option>
           <option value="Outlined">Outlined</option>
           <option value="TwoTone">Two-Tone</option>

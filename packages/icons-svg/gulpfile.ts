@@ -101,7 +101,7 @@ export default series(
       toDir: 'src/asn',
       svgoConfig: remainFillConfig,
       extraNodeTransformFactories: [
-        assignAttrsAtTag('svg', { focusable: 'false' })
+        assignAttrsAtTag('svg', { focusable: 'false' }),
       ],
       stringify: JSON.stringify,
       template: iconTemplate,
