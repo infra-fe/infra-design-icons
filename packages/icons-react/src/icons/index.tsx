@@ -436,6 +436,7 @@ export { default as ICloseFullfiled } from './ICloseFullfiled';
 export { default as ICloseOutlined } from './ICloseOutlined';
 export { default as ICommand } from './ICommand';
 export { default as IComment } from './IComment';
+export { default as ICommit } from './ICommit';
 export { default as ICopy } from './ICopy';
 export { default as ICrm } from './ICrm';
 export { default as ICrop } from './ICrop';
