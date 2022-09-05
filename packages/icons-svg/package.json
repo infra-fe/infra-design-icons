@@ -77,7 +77,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmjs.org"
+    "registry": "https://npm.shopee.io/"
   },
   "gitHead": "e119ae81146d151a607bc270ba98648144915d38"
 }
