@@ -1,5 +1,8 @@
 {
-  "private": false,
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "start": "yarn clean && yarn bootstrap",
     "bootstrap": "lerna bootstrap",
@@ -12,10 +15,12 @@
     "react:g": "lerna run --scope infra-design-icons generate",
     "react:compile": "lerna run --scope infra-design-icons compile",
     "lint": "lerna run lint",
-    "gen": "yarn icons:generate && yarn icons:build && yarn react:ci",
-    "publish": "yarn gen && lerna publish"
+    "gen": "yarn icons:generate && yarn icons:build && yarn workspace infra-design-icons generate",
+    "publish": "yarn gen && lerna publish",
+    "dev:react": "yarn workspace infra-design-icons start"
   },
   "devDependencies": {
+    "dumi": "^1.1.48",
     "lerna": "^3.4.0"
   },
   "license": "MIT"

@@ -1,13 +1,8 @@
-<h1 align="center">
-Infra design Icons for React.
-</h1>
+# Infra design Icons for React.
 
-<div align="center">
 
 [![NPM version](https://img.shields.io/npm/v/@ant-design/icons.svg?style=flat)](https://npmjs.org/package/infra-design-icons)
 [![NPM downloads](http://img.shields.io/npm/dm/@ant-design/icons.svg?style=flat)](https://npmjs.org/package/infra-design-icons)
-
-</div>
 
 ## Install
 
