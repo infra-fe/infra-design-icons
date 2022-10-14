@@ -21,7 +21,8 @@
   },
   "devDependencies": {
     "dumi": "^1.1.48",
-    "lerna": "^3.4.0"
+    "lerna": "^3.4.0",
+    "typescript": "^4.8.4"
   },
   "license": "MIT"
 }
