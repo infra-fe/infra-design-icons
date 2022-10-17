@@ -20,7 +20,6 @@
     "prePub": "npm run generate && npm run compile && npm run lint && npm run test",
     "prepublishOnly": "npm run generate && npm run compile",
     "start": "dumi dev",
-    // "test": "father test",
     "test:local": "npm run generate && npm run compile && npm run test"
   },
   "resolutions": {
