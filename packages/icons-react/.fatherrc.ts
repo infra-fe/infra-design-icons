@@ -30,6 +30,9 @@ export default defineConfig({
     output: 'es'
   },
   umd: process.env.NODE_ENV === 'ci' ? undefined : {
+    entry: {
+      'src/index': {}
+    },
     output: 'dist',
     externals: {
       react: 'window.React',
