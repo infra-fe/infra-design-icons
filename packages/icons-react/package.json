@@ -8,7 +8,7 @@
   ],
   "sideEffects": false,
   "main": "./lib/index.js",
-  "unpkg": "./dist/index.umd.js",
+  "unpkg": "./dist/index.umd.min.js",
   "module": "./es/index.js",
   "scripts": {
     "ci": "NODE_ENV=ci npm run prePub",
